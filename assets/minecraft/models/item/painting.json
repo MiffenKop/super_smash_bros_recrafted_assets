@@ -24,6 +24,7 @@
 		{ "predicate": { "custom_model_data": 850 }, "model": "ssbrc:maps/m/miiverse/posts/link/0" },
 		{ "predicate": { "custom_model_data": 900 }, "model": "ssbrc:maps/m/miiverse/posts/luigi/0" },
 		{ "predicate": { "custom_model_data": 950 }, "model": "ssbrc:maps/m/miiverse/posts/mario/0" },
+		{ "predicate": { "custom_model_data": 951 }, "model": "ssbrc:maps/m/miiverse/posts/mario/1" },
 		{ "predicate": { "custom_model_data": 1000 }, "model": "ssbrc:maps/m/miiverse/posts/megaman/0" },
 		{ "predicate": { "custom_model_data": 1050 }, "model": "ssbrc:maps/m/miiverse/posts/ness/0" },
 		{ "predicate": { "custom_model_data": 1100 }, "model": "ssbrc:maps/m/miiverse/posts/pikachu/0" },
