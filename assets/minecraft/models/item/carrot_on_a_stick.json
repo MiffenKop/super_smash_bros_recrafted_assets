@@ -27,6 +27,7 @@
 		{ "predicate": { "custom_model_data": 115 }, "model": "ssbrc:characters/byleth/items/golden_deer/failnaught/pulling_2" },
 		{ "predicate": { "custom_model_data": 116 }, "model": "ssbrc:characters/byleth/items/golden_deer/failnaught/pulling_3" },
 		{ "predicate": { "custom_model_data": 117 }, "model": "ssbrc:characters/byleth/items/golden_deer/failnaught/charged" },
+		{ "predicate": { "custom_model_data": 118 }, "model": "ssbrc:characters/byleth/items/blue_lions/steed_charge" },
 		{ "predicate": { "custom_model_data": 120 }, "model": "ssbrc:characters/captainfalcon/skins/default" },
 		{ "predicate": { "custom_model_data": 121 }, "model": "ssbrc:characters/captainfalcon/items/fists_of_fury" },
 		{ "predicate": { "custom_model_data": 122 }, "model": "ssbrc:characters/captainfalcon/items/falcon_punch/default" },
