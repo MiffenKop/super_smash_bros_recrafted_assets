@@ -134,11 +134,12 @@
 		{ "predicate": { "custom_model_data": 1585 }, "model": "minecraft:item/diamond_pickaxe" },
 		{ "predicate": { "custom_model_data": 1586 }, "model": "minecraft:item/netherite_pickaxe" },
 		{ "predicate": { "custom_model_data": 1720 }, "model": "ssbrc:characters/wolf/skins/default" },
-		{ "predicate": { "custom_model_data": 1721 }, "model": "ssbrc:characters/wolf/items/wolf_slash" },
+		{ "predicate": { "custom_model_data": 1721 }, "model": "ssbrc:characters/wolf/items/wolf_slash/default" },
 		{ "predicate": { "custom_model_data": 1722 }, "model": "ssbrc:characters/wolf/items/blaster/default" },
 		{ "predicate": { "custom_model_data": 1723 }, "model": "ssbrc:characters/wolf/items/grenade/default" },
 		{ "predicate": { "custom_model_data": 1724 }, "model": "ssbrc:characters/wolf/items/grenade/beep" },
 		{ "predicate": { "custom_model_data": 1725 }, "model": "ssbrc:characters/wolf/items/blaster/assault" },
+		{ "predicate": { "custom_model_data": 1726 }, "model": "ssbrc:characters/wolf/items/wolf_slash/assault" },
 		{ "predicate": { "custom_model_data": 1741 }, "model": "ssbrc:characters/yoshi/items/egg_green" },
 		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:characters/zelda/skins/default" },
 
