@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ssbrc:characters/byleth/items/steed_charge"
+		"layer0": "ssbrc:characters/byleth/items/blue_lions/steed_charge"
 	},
 	"display": {
 		"thirdperson_righthand": {
