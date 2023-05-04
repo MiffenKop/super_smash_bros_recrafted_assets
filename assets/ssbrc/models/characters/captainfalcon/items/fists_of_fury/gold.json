@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ssbrc:characters/captainfalcon/items/fists_of_fury"
+		"0": "ssbrc:characters/captainfalcon/items/fists_of_fury/gold"
 	},
 	"elements": [
 		{

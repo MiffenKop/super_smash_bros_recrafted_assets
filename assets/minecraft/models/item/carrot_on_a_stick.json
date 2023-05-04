@@ -8,7 +8,9 @@
 		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:characters/rob/items/robo_beam/depleted" },
 		{ "predicate": { "custom_model_data": 3 }, "model": "ssbrc:characters/rob/items/robo_beam/ready" },
 		{ "predicate": { "custom_model_data": 4 }, "model": "ssbrc:characters/rob/items/robo_beam/charged" },
+
 		{ "predicate": { "custom_model_data": 60 }, "model": "ssbrc:characters/bowser/skins/default" },
+
 		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:characters/byleth/skins/default/female" },
 		{ "predicate": { "custom_model_data": 101 }, "model": "ssbrc:characters/byleth/items/black_eagles/aymr/default" },
 		{ "predicate": { "custom_model_data": 102 }, "model": "ssbrc:characters/byleth/items/black_eagles/aymr/awakened" },
@@ -28,13 +30,18 @@
 		{ "predicate": { "custom_model_data": 116 }, "model": "ssbrc:characters/byleth/items/golden_deer/failnaught/pulling_3" },
 		{ "predicate": { "custom_model_data": 117 }, "model": "ssbrc:characters/byleth/items/golden_deer/failnaught/charged" },
 		{ "predicate": { "custom_model_data": 118 }, "model": "ssbrc:characters/byleth/items/blue_lions/steed_charge" },
+
 		{ "predicate": { "custom_model_data": 120 }, "model": "ssbrc:characters/captainfalcon/skins/default" },
-		{ "predicate": { "custom_model_data": 121 }, "model": "ssbrc:characters/captainfalcon/items/fists_of_fury" },
+		{ "predicate": { "custom_model_data": 121 }, "model": "ssbrc:characters/captainfalcon/items/fists_of_fury/default" },
 		{ "predicate": { "custom_model_data": 122 }, "model": "ssbrc:characters/captainfalcon/items/falcon_punch/default" },
 		{ "predicate": { "custom_model_data": 123 }, "model": "ssbrc:characters/captainfalcon/items/falcon_punch/blood_falcon" },
+		{ "predicate": { "custom_model_data": 124 }, "model": "ssbrc:characters/captainfalcon/items/fists_of_fury/gold" },
+		{ "predicate": { "custom_model_data": 125 }, "model": "ssbrc:characters/captainfalcon/items/fists_of_fury/blood_falcon" },
+
 		{ "predicate": { "custom_model_data": 180 }, "model": "ssbrc:characters/cloud/skins/default" },
 		{ "predicate": { "custom_model_data": 181 }, "model": "ssbrc:characters/cloud/items/buster_sword/operator" },
 		{ "predicate": { "custom_model_data": 182 }, "model": "ssbrc:characters/cloud/items/buster_sword/punisher" },
+
 		{ "predicate": { "custom_model_data": 260 }, "model": "ssbrc:characters/darksamus/skins/default" },
 		{ "predicate": { "custom_model_data": 261 }, "model": "ssbrc:characters/darksamus/items/phazon_beam" },
 		{ "predicate": { "custom_model_data": 262 }, "model": "ssbrc:characters/darksamus/items/phazon_spike" },
@@ -42,25 +49,32 @@
 		{ "predicate": { "custom_model_data": 264 }, "model": "ssbrc:characters/darksamus/items/charge_beam/2" },
 		{ "predicate": { "custom_model_data": 265 }, "model": "ssbrc:characters/darksamus/items/charge_beam/3" },
 		{ "predicate": { "custom_model_data": 266 }, "model": "ssbrc:characters/darksamus/items/phazon_overload" },
+
 		{ "predicate": { "custom_model_data": 300 }, "model": "ssbrc:characters/donkeykong/skins/default" },
 		{ "predicate": { "custom_model_data": 301 }, "model": "ssbrc:characters/donkeykong/items/barrel/default" },
 		{ "predicate": { "custom_model_data": 302 }, "model": "ssbrc:characters/donkeykong/items/orange_grenade" },
 		{ "predicate": { "custom_model_data": 303 }, "model": "ssbrc:characters/donkeykong/items/barrel/oil" },
+
 		{ "predicate": { "custom_model_data": 380 }, "model": "ssbrc:characters/fox/skins/default" },
 		{ "predicate": { "custom_model_data": 381 }, "model": "ssbrc:characters/fox/items/krazoan_staff" },
 		{ "predicate": { "custom_model_data": 382 }, "model": "ssbrc:characters/fox/items/blaster" },
 		{ "predicate": { "custom_model_data": 383 }, "model": "ssbrc:characters/fox/items/reflector" },
+
 		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:characters/ganondorf/skins/default" },
 		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:characters/ganondorf/items/sword_of_the_six_sages" },
 		{ "predicate": { "custom_model_data": 402 }, "model": "ssbrc:characters/ganondorf/items/warlock_blade" },
+
 		{ "predicate": { "custom_model_data": 420 }, "model": "ssbrc:characters/greninja/skins/default" },
 		{ "predicate": { "custom_model_data": 421 }, "model": "ssbrc:characters/greninja/items/water_shuriken" },
+
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:characters/hero/skins/default/default" },
 		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:characters/hero/items/bang" },
 		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:characters/hero/items/kaclang" },
 		{ "predicate": { "custom_model_data": 443 }, "model": "ssbrc:characters/hero/items/magic_burst" },
+
 		{ "predicate": { "custom_model_data": 580 }, "model": "ssbrc:characters/jigglypuff/skins/default/default" },
 		{ "predicate": { "custom_model_data": 581 }, "model": "ssbrc:characters/jigglypuff/items/hyper_voice" },
+
 		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:characters/joker/skins/default/default" },
 		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:characters/joker/items/tt33" },
 		{ "predicate": { "custom_model_data": 602 }, "model": "ssbrc:characters/joker/items/mask" },
@@ -68,10 +82,13 @@
 		{ "predicate": { "custom_model_data": 604 }, "model": "ssbrc:characters/joker/items/eiagon" },
 		{ "predicate": { "custom_model_data": 605 }, "model": "ssbrc:characters/joker/items/hama/item" },
 		{ "predicate": { "custom_model_data": 606 }, "model": "ssbrc:characters/joker/items/phantom_show" },
+
 		{ "predicate": { "custom_model_data": 680 }, "model": "ssbrc:characters/kingkrool/skins/default" },
 		{ "predicate": { "custom_model_data": 681 }, "model": "ssbrc:characters/kingkrool/items/blunderbuss" },
 		{ "predicate": { "custom_model_data": 682 }, "model": "ssbrc:characters/kingkrool/items/cannonball" },
+
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:characters/kirby/skins/default" },
+
 		{ "predicate": { "custom_model_data": 720 }, "model": "ssbrc:characters/link/skins/default" },
 		{ "predicate": { "custom_model_data": 721 }, "model": "ssbrc:characters/link/items/master_sword/default/default" },
 		{ "predicate": { "custom_model_data": 722 }, "model": "ssbrc:characters/link/items/master_sword/default/awakened" },
@@ -82,28 +99,39 @@
 		{ "predicate": { "custom_model_data": 727 }, "model": "ssbrc:characters/link/items/master_sword/default/spinning/awakened" },
 		{ "predicate": { "custom_model_data": 728 }, "model": "ssbrc:characters/link/items/master_sword/dark/spinning/default" },
 		{ "predicate": { "custom_model_data": 729 }, "model": "ssbrc:characters/link/items/master_sword/dark/spinning/awakened" },
+
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:characters/luigi/skins/default" },
 		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:characters/luigi/items/ice_ball" },
+
 		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:characters/mario/skins/default" },
 		{ "predicate": { "custom_model_data": 841 }, "model": "ssbrc:characters/mario/items/fireball" },
+
 		{ "predicate": { "custom_model_data": 880 }, "model": "ssbrc:characters/megaman/skins/default" },
 		{ "predicate": { "custom_model_data": 881 }, "model": "ssbrc:characters/megaman/items/mega_buster" },
 		{ "predicate": { "custom_model_data": 882 }, "model": "ssbrc:characters/megaman/items/black_hole_bomb" },
+
 		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:characters/ness/skins/default" },
 		{ "predicate": { "custom_model_data": 1081 }, "model": "ssbrc:characters/ness/items/pk_fire" },
 		{ "predicate": { "custom_model_data": 1082 }, "model": "ssbrc:characters/ness/items/pk_flash" },
+
 		{ "predicate": { "custom_model_data": 1160 }, "model": "ssbrc:characters/peach/skins/default" },
+
 		{ "predicate": { "custom_model_data": 1200 }, "model": "ssbrc:characters/pikachu/skins/default" },
 		{ "predicate": { "custom_model_data": 1201 }, "model": "ssbrc:characters/pikachu/items/electric_terrain" },
+
 		{ "predicate": { "custom_model_data": 1220 }, "model": "ssbrc:characters/pit/skins/default" },
+
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
+
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:characters/ryu/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:characters/ryu/items/collarbone_breaker" },
 		{ "predicate": { "custom_model_data": 1402 }, "model": "ssbrc:characters/ryu/items/satsui_no_hado_rage" },
+
 		{ "predicate": { "custom_model_data": 1420 }, "model": "ssbrc:characters/samus/skins/default" },
 		{ "predicate": { "custom_model_data": 1421 }, "model": "ssbrc:characters/samus/items/power_beam" },
 		{ "predicate": { "custom_model_data": 1422 }, "model": "ssbrc:characters/samus/items/wave_beam" },
 		{ "predicate": { "custom_model_data": 1423 }, "model": "ssbrc:characters/samus/items/plasma_beam" },
+
 		{ "predicate": { "custom_model_data": 1520 }, "model": "ssbrc:characters/snake/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1521 }, "model": "ssbrc:characters/snake/items/psg1" },
 		{ "predicate": { "custom_model_data": 1522 }, "model": "ssbrc:characters/snake/items/famas" },
@@ -114,7 +142,9 @@
 		{ "predicate": { "custom_model_data": 1527 }, "model": "ssbrc:characters/snake/items/anti_personnel_mine/priming_1" },
 		{ "predicate": { "custom_model_data": 1528 }, "model": "ssbrc:characters/snake/items/anti_personnel_mine/priming_2" },
 		{ "predicate": { "custom_model_data": 1529 }, "model": "ssbrc:characters/snake/items/anti_personnel_mine/active" },
+
 		{ "predicate": { "custom_model_data": 1540 }, "model": "ssbrc:characters/sonic/skins/default" },
+
 		{ "predicate": { "custom_model_data": 1560 }, "model": "ssbrc:characters/sora/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1561 }, "model": "ssbrc:characters/sora/items/keyblades/default/kingdom_key" },
 		{ "predicate": { "custom_model_data": 1562 }, "model": "ssbrc:characters/sora/items/keyblades/default/star_seeker" },
@@ -126,6 +156,7 @@
 		{ "predicate": { "custom_model_data": 1568 }, "model": "ssbrc:characters/sora/items/drive_forms/default/wisdom" },
 		{ "predicate": { "custom_model_data": 1569 }, "model": "ssbrc:characters/sora/items/drive_forms/timeless_river/valor" },
 		{ "predicate": { "custom_model_data": 1570 }, "model": "ssbrc:characters/sora/items/drive_forms/timeless_river/wisdom" },
+
 		{ "predicate": { "custom_model_data": 1580 }, "model": "ssbrc:characters/steve/skins/default" },
 		{ "predicate": { "custom_model_data": 1581 }, "model": "minecraft:item/wooden_pickaxe" },
 		{ "predicate": { "custom_model_data": 1582 }, "model": "minecraft:item/stone_pickaxe" },
@@ -133,6 +164,7 @@
 		{ "predicate": { "custom_model_data": 1584 }, "model": "minecraft:item/iron_pickaxe" },
 		{ "predicate": { "custom_model_data": 1585 }, "model": "minecraft:item/diamond_pickaxe" },
 		{ "predicate": { "custom_model_data": 1586 }, "model": "minecraft:item/netherite_pickaxe" },
+
 		{ "predicate": { "custom_model_data": 1720 }, "model": "ssbrc:characters/wolf/skins/default" },
 		{ "predicate": { "custom_model_data": 1721 }, "model": "ssbrc:characters/wolf/items/wolf_slash/default" },
 		{ "predicate": { "custom_model_data": 1722 }, "model": "ssbrc:characters/wolf/items/blaster/default" },
@@ -140,30 +172,39 @@
 		{ "predicate": { "custom_model_data": 1724 }, "model": "ssbrc:characters/wolf/items/grenade/beep" },
 		{ "predicate": { "custom_model_data": 1725 }, "model": "ssbrc:characters/wolf/items/blaster/assault" },
 		{ "predicate": { "custom_model_data": 1726 }, "model": "ssbrc:characters/wolf/items/wolf_slash/assault" },
+		{ "predicate": { "custom_model_data": 1727 }, "model": "ssbrc:characters/wolf/items/wolf_slash/gold" },
+
 		{ "predicate": { "custom_model_data": 1741 }, "model": "ssbrc:characters/yoshi/items/egg_green" },
+
 		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:characters/zelda/skins/default" },
 
 		{ "predicate": { "custom_model_data": 1820 }, "model": "ssbrc:characters/alteredbeast/skins/default/human" },
 		{ "predicate": { "custom_model_data": 1821 }, "model": "ssbrc:characters/alteredbeast/items/waredragon/electrocution" },
 		{ "predicate": { "custom_model_data": 1822 }, "model": "ssbrc:characters/alteredbeast/items/warewolf/flame_hands" },
+
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:characters/alucard/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1841 }, "model": "ssbrc:characters/alucard/items/holy_water" },
 		{ "predicate": { "custom_model_data": 1842 }, "model": "ssbrc:characters/alucard/items/blood_metamorphosis" },
+
 		{ "predicate": { "custom_model_data": 1860 }, "model": "ssbrc:characters/giegue/skins/default" },
 		{ "predicate": { "custom_model_data": 1861 }, "model": "ssbrc:characters/giegue/items/pk_freeze" },
 		{ "predicate": { "custom_model_data": 1862 }, "model": "ssbrc:characters/giegue/items/pk_beam" },
+
 		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:characters/shadow/skins/default" },
 		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:characters/shadow/items/chaos_spear" },
 		{ "predicate": { "custom_model_data": 1902 }, "model": "ssbrc:characters/shadow/items/chaos_emeralds/blue" },
 		{ "predicate": { "custom_model_data": 1903 }, "model": "ssbrc:characters/shadow/items/chaos_emeralds/red" },
+
 		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:characters/shovelknight/skins/default" },
 		{ "predicate": { "custom_model_data": 1921 }, "model": "ssbrc:characters/shovelknight/items/chaos_sphere" },
 		{ "predicate": { "custom_model_data": 1922 }, "model": "ssbrc:characters/shovelknight/items/flare_wand" },
 		{ "predicate": { "custom_model_data": 1923 }, "model": "ssbrc:characters/shovelknight/items/phase_locket" },
 		{ "predicate": { "custom_model_data": 1924 }, "model": "ssbrc:characters/shovelknight/items/propeller_dagger" },
 		{ "predicate": { "custom_model_data": 1925 }, "model": "ssbrc:characters/shovelknight/items/throwing_anchor" },
+
 		{ "predicate": { "custom_model_data": 1940 }, "model": "ssbrc:characters/teamrocket/skins/logo" },
 		{ "predicate": { "custom_model_data": 1944 }, "model": "ssbrc:characters/teamrocket/items/meowth/payday" },
+
 		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:characters/yar/skins/default" },
 		{ "predicate": { "custom_model_data": 1962 }, "model": "ssbrc:characters/yar/items/ray_blaster/default" },
 		{ "predicate": { "custom_model_data": 1963 }, "model": "ssbrc:characters/yar/items/ray_blaster/gatling_gun/default" },
