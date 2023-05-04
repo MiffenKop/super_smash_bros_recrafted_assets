@@ -269,37 +269,55 @@
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.charge_voice": {
+	"fighters.captainfalcon.falcon_punch.default.charge_voice": {
 		"sounds":[
 			{
-				"name":"ssbrc:characters/captainfalcon/falcon_punch/charge_voice",
+				"name":"ssbrc:characters/captainfalcon/falcon_punch/default/charge_voice",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.charge": {
+	"fighters.captainfalcon.falcon_punch.default.charge": {
 		"sounds":[
 			{
-				"name":"ssbrc:characters/captainfalcon/falcon_punch/charge",
+				"name":"ssbrc:characters/captainfalcon/falcon_punch/default/charge",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.unleash_voice": {
+	"fighters.captainfalcon.falcon_punch.default.unleash_voice": {
 		"sounds":[
 			{
-				"name":"ssbrc:characters/captainfalcon/falcon_punch/unleash_voice",
+				"name":"ssbrc:characters/captainfalcon/falcon_punch/default/unleash_voice",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.unleash": {
+	"fighters.captainfalcon.falcon_punch.default.unleash": {
 		"sounds":[
 			{
-				"name":"ssbrc:characters/captainfalcon/falcon_punch/unleash",
+				"name":"ssbrc:characters/captainfalcon/falcon_punch/default/unleash",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.captainfalcon.falcon_punch.blood_falcon.charge": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/captainfalcon/falcon_punch/blood_falcon/charge",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.captainfalcon.falcon_punch.blood_falcon.unleash": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/captainfalcon/falcon_punch/blood_falcon/unleash",
 				"stream":false,
 				"volume": 1.0
 			}

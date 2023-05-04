@@ -273,6 +273,8 @@
 		{ "predicate": { "custom_model_data": 50013 }, "model": "ssbrc:pokemon/type_icons/poison" },
 		{ "predicate": { "custom_model_data": 50018 }, "model": "ssbrc:pokemon/type_icons/water" },
 
+		{ "predicate": { "custom_model_data": 9999988 }, "model": "minecraft:item/leather_chestplate" },
+		{ "predicate": { "custom_model_data": 9999989 }, "model": "minecraft:item/written_book" },
 		{ "predicate": { "custom_model_data": 9999990 }, "model": "ssbrc:inventory_icons/selector" },
 
 		{ "predicate": { "custom_model_data": 9999991 }, "model": "ssbrc:team_flags/red" },
