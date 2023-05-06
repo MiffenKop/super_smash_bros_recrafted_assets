@@ -1883,5 +1883,39 @@
 				"volume": 1.0
 			}
 		]
+	},
+	"skin_equip": {
+		"sounds":[
+			{
+				"name":"minecraft:item/armor/equip_generic1",
+				"stream":false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:item/armor/equip_generic2",
+				"stream":false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:item/armor/equip_generic3",
+				"stream":false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:item/armor/equip_generic4",
+				"stream":false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:item/armor/equip_generic5",
+				"stream":false,
+				"volume": 1.0
+			},
+			{
+				"name":"minecraft:item/armor/equip_generic6",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
 	}
 }
