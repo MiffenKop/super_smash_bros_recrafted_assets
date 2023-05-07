@@ -66,8 +66,10 @@
 	"ssbrc.game.start.warn.sameTeams": "All players cannot be on the same team!",
 
 	"ssbrc.lobby.credits": "Credits",
-	"ssbrc.lobby.credits.developerBio.nessispsirockin": "NessIsPSIRockin bio here",
-	"ssbrc.lobby.credits.developerBio.inquognito": "Hi, Patrick here! I'm a video game developer who is currently focusing on Minecraft projects while I expand my skillset. You can find all of my work on our PlanetMinecraft page!",
+	"ssbrc.lobby.credits.developerBio.nessispsirockin": "I'm Ness, project lead and founder of Super Smash Bros. Re:Crafted. I can't thank you enough for checking out our game. Please remember to subscribe for further updates, and join our discord to provide feedback! ",
+	"ssbrc.lobby.credits.developerBio.nessispsirockinLink": "[PlanetMinecraft]",
+	"ssbrc.lobby.credits.developerBio.inquognito": "Hi, Patrick here! I'm a video game developer who is currently focusing on Minecraft projects while I expand my skillset. You can find all of my work on our PlanetMinecraft page! ",
+	"ssbrc.lobby.credits.developerBio.inquognitoLink": "[PlanetMinecraft]",
 	"ssbrc.lobby.credits.developerBio.orionbrigade": "Hi, I’m Alex. I am not real.",
 	"ssbrc.lobby.credits.developerBio.jedimasterhomer": "Hello! I am Homer, an SSBRC Tester, Builder/Designer, Fighter Consultant, Artist of most Miiverse posts, and very happy to work with so many people that are more talented than I. Check out my YouTube channel where I do reveals for SSBRC and other content here: ",
 	"ssbrc.lobby.credits.developerBio.jedimasterhomerLink": "[YouTube]",
