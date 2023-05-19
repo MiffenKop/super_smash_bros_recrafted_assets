@@ -739,7 +739,6 @@
 	"ssbrc.fighters.snake.loadout.unequip": "You have unequipped the ",
 	"ssbrc.fighters.snake.loadout.warn.overencumbered": "You're overencumbered! You can't equip this.",
 	"ssbrc.fighters.snake.loadout.warn.alreadyEquipped": "You already have this equipped.",
-	"ssbrc.fighters.snake.loadout.warn.notEquipped": "You do not have this equipped.",
 	"ssbrc.fighters.snake.capacity": "Capacity: ",
 	"ssbrc.fighters.snake.reloading": "Reloading...",
 	"ssbrc.fighters.snake.scavenger": "Scavenger | ",
