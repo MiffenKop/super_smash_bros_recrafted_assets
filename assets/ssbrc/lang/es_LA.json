@@ -229,14 +229,14 @@
 
 	"ssbrc.game.music.nowPlaying": "Now Playing: ",
 
-	"ssbrc.team.red": "Team Red",
-	"ssbrc.team.blue": "Team Blue",
-	"ssbrc.team.green": "Team Green",
-	"ssbrc.team.yellow": "Team Yellow",
-	"ssbrc.team.purple": "Team Purple",
-	"ssbrc.team.orange": "Team Orange",
-	"ssbrc.team.pink": "Team Pink",
-	"ssbrc.team.aqua": "Team Aqua",
+	"ssbrc.team.red": "Equipo Rojo",
+	"ssbrc.team.blue": "Equipo Azul",
+	"ssbrc.team.green": "Equipo Verde",
+	"ssbrc.team.yellow": "Equipo Amarillo",
+	"ssbrc.team.purple": "Equipo Marado",
+	"ssbrc.team.orange": "Equipo Naranja",
+	"ssbrc.team.pink": "Equipo Rosa",
+	"ssbrc.team.aqua": "Equipo Agua",
 
 	"ssbrc.gameMode": "Game Mode",
 	"ssbrc.gameModeTitle": "Game Mode: ",
@@ -1058,7 +1058,7 @@
 	"ssbrc.tooltips.alteredbeast.warewolf.flameHands": "Flame Hands",
 	"ssbrc.tooltips.alteredbeast.warewolf.flameHands.description.1": "] to throw out a short-ranged fireball",
 	"ssbrc.tooltips.alteredbeast.plainAxe": "Plain Axe",
-	"ssbrc.stages.acropolisGraveyard": "Acropolis Graveyard",
+	"ssbrc.stages.acropolisGraveyard": "Cementerio Acrópolis",
 	"ssbrc.music.anatasiaBattle": "Anatasia Battle",
 	"ssbrc.music.riseFromYourGrave": "Rise From Your Grave",
 
