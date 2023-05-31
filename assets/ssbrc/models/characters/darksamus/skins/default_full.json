@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "ssbrc:characters/darksamus/skins/default",
-		"1": "ssbrc:characters/darksamus/items/phazon_beam"
+		"1": "ssbrc:characters/darksamus/items/phazon_beam/default"
 	},
 	"elements": [
 		{
