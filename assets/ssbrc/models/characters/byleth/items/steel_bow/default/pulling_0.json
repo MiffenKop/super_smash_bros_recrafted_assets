@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "ssbrc:characters/byleth/items/steel_bow/pulling_0/default"
+        "layer0": "ssbrc:characters/byleth/items/steel_bow/default/pulling_0"
     }
 }

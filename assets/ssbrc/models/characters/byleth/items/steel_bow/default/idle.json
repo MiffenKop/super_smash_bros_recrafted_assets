@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ssbrc:characters/byleth/items/steel_bow/idle/default"
+		"layer0": "ssbrc:characters/byleth/items/steel_bow/default/idle"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -30,21 +30,21 @@
 			"predicate": {
 				"pulling": 1
 			},
-			"model": "ssbrc:characters/byleth/items/steel_bow/pulling_0"
+			"model": "ssbrc:characters/byleth/items/steel_bow/default/pulling_0"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "ssbrc:characters/byleth/items/steel_bow/pulling_1"
+			"model": "ssbrc:characters/byleth/items/steel_bow/default/pulling_1"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "ssbrc:characters/byleth/items/steel_bow/pulling_2"
+			"model": "ssbrc:characters/byleth/items/steel_bow/default/pulling_2"
 		}
 	]
 }
