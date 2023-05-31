@@ -172,6 +172,7 @@
 	"ssbrc.game.timeout": "TIME!",
 	"ssbrc.game.suddenDeath": "SUDDEN DEATH!",
 	"ssbrc.game.stocks": "Stocks",
+	"ssbrc.game.points": "Points",
 	"ssbrc.game.out": " has run out of stocks!",
 
 	"ssbrc.game.end.summary": "Post-Game Summary",
