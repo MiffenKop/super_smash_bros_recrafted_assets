@@ -100,8 +100,9 @@
 
 		{ "predicate": { "custom_model_data": 680 }, "model": "ssbrc:characters/kingkrool/skins/default" },
 		{ "predicate": { "custom_model_data": 681 }, "model": "ssbrc:characters/kingkrool/items/blunderbuss/default" },
-		{ "predicate": { "custom_model_data": 682 }, "model": "ssbrc:characters/kingkrool/items/cannonball" },
+		{ "predicate": { "custom_model_data": 682 }, "model": "ssbrc:characters/kingkrool/items/cannonball/default" },
 		{ "predicate": { "custom_model_data": 683 }, "model": "ssbrc:characters/kingkrool/items/blunderbuss/gold" },
+		{ "predicate": { "custom_model_data": 684 }, "model": "ssbrc:characters/kingkrool/items/cannonball/gold" },
 
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:characters/kirby/skins/default" },
 
