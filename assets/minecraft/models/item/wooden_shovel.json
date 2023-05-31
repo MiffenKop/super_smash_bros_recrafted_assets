@@ -4,6 +4,7 @@
 		"layer0": "item/wooden_shovel"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:characters/ness/items/mr_baseball_bat" }
+		{ "predicate": { "custom_model_data": 1080 }, "model": "ssbrc:characters/ness/items/mr_baseball_bat/default" },
+		{ "predicate": { "custom_model_data": 1081 }, "model": "ssbrc:characters/ness/items/mr_baseball_bat/gold" }
 	]
 }

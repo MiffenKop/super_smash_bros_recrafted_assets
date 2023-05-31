@@ -4,7 +4,9 @@
 		"layer0": "item/iron_axe"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:characters/luigi/items/hammer" },
-		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:characters/mario/items/hammer" }
+		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:characters/luigi/items/hammer/default" },
+		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:characters/luigi/items/hammer/gold" },
+		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:characters/mario/items/hammer/default" },
+		{ "predicate": { "custom_model_data": 841 }, "model": "ssbrc:characters/mario/items/hammer/gold" }
 	]
 }

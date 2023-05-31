@@ -50,14 +50,14 @@
 			"predicate": {
 				"custom_model_data": 100
 			},
-			"model": "ssbrc:characters/byleth/items/steel_bow/idle"
+			"model": "ssbrc:characters/byleth/items/steel_bow/default/idle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 100,
 				"pulling": 1
 			},
-			"model": "ssbrc:characters/byleth/items/steel_bow/pulling_0"
+			"model": "ssbrc:characters/byleth/items/steel_bow/default/pulling_0"
 		},
 		{
 			"predicate": {
@@ -65,7 +65,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "ssbrc:characters/byleth/items/steel_bow/pulling_1"
+			"model": "ssbrc:characters/byleth/items/steel_bow/default/pulling_1"
 		},
 		{
 			"predicate": {
@@ -73,7 +73,7 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "ssbrc:characters/byleth/items/steel_bow/pulling_2"
+			"model": "ssbrc:characters/byleth/items/steel_bow/default/pulling_2"
 		},
 		{
 			"predicate": {
@@ -114,16 +114,45 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "ssbrc:characters/byleth/items/steel_bow/gold/idle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102,
+				"pulling": 1
+			},
+			"model": "ssbrc:characters/byleth/items/steel_bow/gold/pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:characters/byleth/items/steel_bow/gold/pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:characters/byleth/items/steel_bow/gold/pulling_2"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 720
 			},
-			"model": "ssbrc:characters/link/items/fairy_bow/idle"
+			"model": "ssbrc:characters/link/items/fairy_bow/default/idle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 720,
 				"pulling": 1
 			},
-			"model": "ssbrc:characters/link/items/fairy_bow/pulling_0"
+			"model": "ssbrc:characters/link/items/fairy_bow/default/pulling_0"
 		},
 		{
 			"predicate": {
@@ -131,7 +160,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "ssbrc:characters/link/items/fairy_bow/pulling_1"
+			"model": "ssbrc:characters/link/items/fairy_bow/default/pulling_1"
 		},
 		{
 			"predicate": {
@@ -139,7 +168,36 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "ssbrc:characters/link/items/fairy_bow/pulling_2"
+			"model": "ssbrc:characters/link/items/fairy_bow/default/pulling_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 721
+			},
+			"model": "ssbrc:characters/link/items/fairy_bow/gold/idle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 721,
+				"pulling": 1
+			},
+			"model": "ssbrc:characters/link/items/fairy_bow/gold/pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 721,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "ssbrc:characters/link/items/fairy_bow/gold/pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 721,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "ssbrc:characters/link/items/fairy_bow/gold/pulling_2"
 		}
 	]
 }
