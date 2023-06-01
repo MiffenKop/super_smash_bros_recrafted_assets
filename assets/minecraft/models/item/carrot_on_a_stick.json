@@ -148,9 +148,11 @@
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
 
 		{ "predicate": { "custom_model_data": 1400 }, "model": "ssbrc:characters/ryu/skins/default/default" },
-		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:characters/ryu/items/collarbone_breaker/default" },
+		{ "predicate": { "custom_model_data": 1401 }, "model": "ssbrc:characters/ryu/items/collarbone_breaker/default/default" },
 		{ "predicate": { "custom_model_data": 1402 }, "model": "ssbrc:characters/ryu/items/satsui_no_hado_rage" },
-		{ "predicate": { "custom_model_data": 1403 }, "model": "ssbrc:characters/ryu/items/collarbone_breaker/gold" },
+		{ "predicate": { "custom_model_data": 1403 }, "model": "ssbrc:characters/ryu/items/collarbone_breaker/gold/default" },
+		{ "predicate": { "custom_model_data": 1404 }, "model": "ssbrc:characters/ryu/items/collarbone_breaker/default/evil" },
+		{ "predicate": { "custom_model_data": 1405 }, "model": "ssbrc:characters/ryu/items/collarbone_breaker/gold/evil" },
 
 		{ "predicate": { "custom_model_data": 1420 }, "model": "ssbrc:characters/samus/skins/default" },
 		{ "predicate": { "custom_model_data": 1421 }, "model": "ssbrc:characters/samus/items/default/power_beam" },
