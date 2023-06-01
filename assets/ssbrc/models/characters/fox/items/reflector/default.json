@@ -16,11 +16,11 @@
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"firstperson_righthand": {
-			"translation": [7.5, 0, -6.25],
+			"translation": [7.5, 12, -6.25],
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"firstperson_lefthand": {
-			"translation": [7.5, 0, -6.25],
+			"translation": [7.5, 12, -6.25],
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"ground": {
