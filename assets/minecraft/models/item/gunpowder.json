@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1840 }, "model": "ssbrc:characters/alucard/items/blood_metamorphosis/disabled" },
+		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:characters/shadow/items/chaos_spear/disabled" },
 		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:characters/shovelknight/items/war_horn/disabled" }
 	]
 }

@@ -236,7 +236,7 @@
 		{ "predicate": { "custom_model_data": 1862 }, "model": "ssbrc:characters/giegue/items/pk_beam" },
 
 		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:characters/shadow/skins/default" },
-		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:characters/shadow/items/chaos_spear" },
+		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:characters/shadow/items/chaos_spear/default" },
 		{ "predicate": { "custom_model_data": 1902 }, "model": "ssbrc:characters/shadow/items/chaos_emeralds/blue" },
 		{ "predicate": { "custom_model_data": 1903 }, "model": "ssbrc:characters/shadow/items/chaos_emeralds/red" },
 

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ssbrc:characters/shadow/items/chaos_spear"
+		"layer0": "ssbrc:characters/shadow/items/chaos_spear/default"
 	},
 	"display": {
 		"thirdperson_righthand": {
