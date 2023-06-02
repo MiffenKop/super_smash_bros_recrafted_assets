@@ -35,6 +35,9 @@
 	"ssbrc.bonuses.win": "Victory",
 	"ssbrc.bonuses.kills": "KOs",
 
+	"ssbrc.ui.goBack": "Go Back",
+	"ssbrc.ui.nextPage": "Next Page",
+	"ssbrc.ui.clickToOpen": "Click to open",
 	"ssbrc.ui.page2": "Page 2",
 	"ssbrc.ui.page3": "Page 3",
 
@@ -175,6 +178,8 @@
 	"ssbrc.game.points": "Points",
 	"ssbrc.game.timeLeft": "Time Remaining",
 	"ssbrc.game.out": " has run out of stocks!",
+	"ssbrc.game.fighters": "Fighters",
+	"ssbrc.game.skins": "Skins",
 
 	"ssbrc.game.end.summary": "Post-Game Summary",
 
