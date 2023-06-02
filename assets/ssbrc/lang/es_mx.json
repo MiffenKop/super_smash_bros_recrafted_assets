@@ -22,8 +22,8 @@
 	"ssbrc.statistics.fighter": "Estadísticas de Combatientes",
 
 	"ssbrc.statistics.playerProfile": "Perfil del Jugador",
-	"ssbrc.statistics.highestWinStreak": "Highest Win Streak: ",
-	"ssbrc.statistics.currentWinStreak": "Current Win Streak: ",
+	"ssbrc.statistics.highestWinStreak": "Racha Ganadora Más Larga: ",
+	"ssbrc.statistics.currentWinStreak": "Racha Ganadora Actual: ",
 	"ssbrc.statistics.wins": "Victorias: ",
 	"ssbrc.statistics.gamesPlayed": "Partidas Jugadas: ",
 	"ssbrc.statistics.winLossRatio": "Relación Victorias/Derrotas: ",
@@ -38,8 +38,8 @@
 	"ssbrc.ui.page2": "Página 2",
 	"ssbrc.ui.page3": "Página 3",
 
-	"ssbrc.shop.purchase.fighter": "You have purchased ",
-	"ssbrc.shop.purchase.skin": "You have purchased the ",
+	"ssbrc.shop.purchase.fighter": "Usted ha comprado ",
+	"ssbrc.shop.purchase.skin": "Has comprado el ",
 	"ssbrc.shop.credits": "Credits: ",
 	"ssbrc.shop.price": "Price: ",
 	"ssbrc.shop.cannotAfford": "Insufficient Credits",
@@ -49,9 +49,9 @@
 	"ssbrc.lobby.selector": "Selector",
 	"ssbrc.lobby.selector.suffix": "] to interact with objects!",
 
-	"ssbrc.lobby.welcome": "Welcome to",
-	"ssbrc.lobby.join": "Join Game",
-	"ssbrc.lobby.return": "Return to Lobby",
+	"ssbrc.lobby.welcome": "Bienvenido a",
+	"ssbrc.lobby.join": "Unirse al juego",
+	"ssbrc.lobby.return": "Volver al vestíbulo",
 	"ssbrc.lobby.status": "Status: ",
 	"ssbrc.lobby.status.fighterSelect": "Fighter Select",
 	"ssbrc.lobby.status.stageSelect": "Stage Select",
@@ -65,7 +65,7 @@
 
 	"ssbrc.game.start.warn.sameTeams": "All players cannot be on the same team!",
 
-	"ssbrc.lobby.credits": "Credits",
+	"ssbrc.lobby.credits": "Créditos",
 	"ssbrc.lobby.credits.developerBio.nessispsirockin": "I'm Ness, project lead and founder of Super Smash Bros. Re:Crafted. I can't thank you enough for checking out our game. Please remember to subscribe for further updates, and join our discord to provide feedback! ",
 	"ssbrc.lobby.credits.developerBio.nessispsirockinLink": "[PlanetMinecraft]",
 	"ssbrc.lobby.credits.developerBio.inquognito": "Hi, Patrick here! I'm a video game developer who is currently focusing on Minecraft projects while I expand my skillset. You can find all of my work on our PlanetMinecraft page! ",
@@ -87,7 +87,7 @@
 	"ssbrc.lobby.credits.developerBio.ricardo64Link": "[Cardd]",
 	"ssbrc.lobby.credits.developerBio.pastapower2k64": "Hey Paisanos, always remember to leave your shoes outside at night. That way the Sole Goblins have something to eat.",
 
-	"ssbrc.lobby.leaderboard.toggle": "Click to toggle",
+	"ssbrc.lobby.leaderboard.toggle": "Haga clic para alternar",
 
 	"ssbrc.lobby.tips.1": "As the Mario Bros., you can hold down your sneak key for a special super jump!",
 	"ssbrc.lobby.tips.2": "Harness the power of Link's great courage! Hold down Your sneak key and Master Sword to charge up a spin attack!",
@@ -155,8 +155,8 @@
 	"ssbrc.credits.specialThanks": "Special Thanks",
 
 	"ssbrc.fighterSelect.leave": "Leave Game",
-	"ssbrc.fighterSelect.random": "Random",
-	"ssbrc.fighterSelect.spectate": "Spectate",
+	"ssbrc.fighterSelect.random": "Todos",
+	"ssbrc.fighterSelect.spectate": "Espectador",
 	"ssbrc.fighterSelect.spectateGame": "You are now spectating the game! To rejoin the game, please select a fighter.",
 	"ssbrc.fighterSelect.unowned": "You do not own this fighter!",
 
