@@ -5,7 +5,7 @@
 	"ssbrc.profile.warn.forceReset": "Desde la última vez que estuvo en línea, un administrador ha restablecido todos los datos del jugador. Sus datos han sido reiniciados.",
 	"ssbrc.profile.reset": "REINICIAR DATOS",
 	"ssbrc.profile.reset.prompt": "¿Está seguro de que desea eliminar sus datos guardados?\n\n",
-	"ssbrc.profile.reset.explainResets": "Esto restablecerá lo siguiente:\n- personajes y pieles\n- Créditos\n- Estadísticas\n- Posición en la tabla de posiciones\n\n",
+	"ssbrc.profile.reset.explainResets": "Esto restablecerá lo siguiente:\n- combatientes y pieles\n- Créditos\n- Estadísticas\n- Posición en la tabla de posiciones\n\n",
 	"ssbrc.profile.reset.explainPreservations": "Sin embargo, mantendrá preferencias como:\n- Favoritos\n- Configuración del lado del cliente\n\n",
 	"ssbrc.profile.reset.cancel": "Restablecimiento de datos cancelado.",
 	"ssbrc.profile.reset.confirm": "Sus datos fueron eliminados con éxito.",
@@ -1110,7 +1110,7 @@
 	"ssbrc.tooltips.item.angelFeather.description.1": "- Drastically increases jump height and grants slow falling",
 	"ssbrc.tooltips.item.angelFeather.description.2": "- Lasts for a single jump",
 	"ssbrc.tooltips.item.powerPellet": "Power Pellet",
-	"ssbrc.tooltips.item.powerPellet.description.1": "- Allows ghosts to be eaten by fighters temporarily",
+	"ssbrc.tooltips.item.powerPellet.description.1": "- Allows ghosts to be eaten temporarily",
 
 	"ssbrc.tooltips.item.activation": "Activation Item",
 	"ssbrc.tooltips.item.activation.activate": "] to activate",

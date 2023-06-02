@@ -5,7 +5,7 @@
 	"ssbrc.profile.warn.forceReset": "Since you were last online, an admin has reset all player data. Your data has been reset.",
 	"ssbrc.profile.reset": "RESET DATA",
 	"ssbrc.profile.reset.prompt": "Are you sure you want to clear your save data?\n\n",
-	"ssbrc.profile.reset.explainResets": "This will reset the following:\n- Characters & Skins\n- Credits\n- Stats\n- Leaderboard Standing\n\n",
+	"ssbrc.profile.reset.explainResets": "This will reset the following:\n- Fighters & Skins\n- Credits\n- Stats\n- Leaderboard Standing\n\n",
 	"ssbrc.profile.reset.explainPreservations": "However, it will keep preferences such as:\n- Favorites\n- Client-Side Settings\n\n",
 	"ssbrc.profile.reset.cancel": "Data reset cancelled.",
 	"ssbrc.profile.reset.confirm": "Your data has been successfully reset.",
@@ -1110,7 +1110,7 @@
 	"ssbrc.tooltips.item.angelFeather.description.1": "- Drastically increases jump height and grants slow falling",
 	"ssbrc.tooltips.item.angelFeather.description.2": "- Lasts for a single jump",
 	"ssbrc.tooltips.item.powerPellet": "Power Pellet",
-	"ssbrc.tooltips.item.powerPellet.description.1": "- Allows ghosts to be eaten by fighters temporarily",
+	"ssbrc.tooltips.item.powerPellet.description.1": "- Allows ghosts to be eaten temporarily",
 
 	"ssbrc.tooltips.item.activation": "Activation Item",
 	"ssbrc.tooltips.item.activation.activate": "] to activate",
