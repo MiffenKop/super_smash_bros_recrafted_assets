@@ -35,18 +35,18 @@
 	"ssbrc.bonuses.win": "Victoria",
 	"ssbrc.bonuses.kills": "KOs",
 
-	"ssbrc.ui.goBack": "Go Back",
-	"ssbrc.ui.nextPage": "Next Page",
-	"ssbrc.ui.clickToOpen": "Click to open",
+	"ssbrc.ui.goBack": "Previo",
+	"ssbrc.ui.nextPage": "Siguiente página",
+	"ssbrc.ui.clickToOpen": "Haga clic para abrir",
 	"ssbrc.ui.page2": "Página 2",
 	"ssbrc.ui.page3": "Página 3",
 
 	"ssbrc.shop.purchase.fighter": "Usted ha comprado ",
 	"ssbrc.shop.purchase.skin": "Has comprado el ",
 	"ssbrc.shop.credits": "Credits: ",
-	"ssbrc.shop.price": "Price: ",
+	"ssbrc.shop.price": "Precio: ",
 	"ssbrc.shop.cannotAfford": "Insufficient Credits",
-	"ssbrc.shop.purchase": "Click to purchase!",
+	"ssbrc.shop.purchase": "Haga clic para comprar!",
 	"ssbrc.shop.owned": "Owned",
 
 	"ssbrc.lobby.selector": "Selector",
@@ -63,8 +63,8 @@
 	"ssbrc.lobby.playersLeft": "Players Remaining: ",
 	"ssbrc.lobby.full": "Lobby Full",
 
-	"ssbrc.lobby.timeLeft": "Time Remaining: ",
-	"ssbrc.lobby.timeUntilStart": "Starting in: ",
+	"ssbrc.lobby.timeLeft": "Tiempo restante: ",
+	"ssbrc.lobby.timeUntilStart": "Comenzando en: ",
 
 	"ssbrc.game.start.warn.sameTeams": "All players cannot be on the same team!",
 
@@ -157,7 +157,7 @@
 	"ssbrc.credits.testers": "Testers",
 	"ssbrc.credits.specialThanks": "Special Thanks",
 
-	"ssbrc.fighterSelect.leave": "Leave Game",
+	"ssbrc.fighterSelect.leave": "Salir del juego",
 	"ssbrc.fighterSelect.random": "Todos",
 	"ssbrc.fighterSelect.spectate": "Espectador",
 	"ssbrc.fighterSelect.spectateGame": "You are now spectating the game! To rejoin the game, please select a fighter.",
@@ -178,7 +178,7 @@
 	"ssbrc.game.points": "Points",
 	"ssbrc.game.timeLeft": "Time Remaining",
 	"ssbrc.game.out": " has run out of stocks!",
-	"ssbrc.game.fighters": "Fighters",
+	"ssbrc.game.fighters": "Combatientes",
 	"ssbrc.game.skins": "Skins",
 
 	"ssbrc.game.end.summary": "Post-Game Summary",
