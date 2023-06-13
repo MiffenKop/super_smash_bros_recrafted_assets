@@ -131,6 +131,7 @@
 		{ "predicate": { "custom_model_data": 1525 }, "model": "ssbrc:characters/snake/skins/iroquois_pliskin/night_vision_goggles" },
 		{ "predicate": { "custom_model_data": 1540 }, "model": "ssbrc:characters/sonic/skins/default" },
 		{ "predicate": { "custom_model_data": 1541 }, "model": "ssbrc:characters/sonic/skins/gold" },
+		{ "predicate": { "custom_model_data": 1542 }, "model": "ssbrc:characters/sonic/skins/classic" },
 		{ "predicate": { "custom_model_data": 1560 }, "model": "ssbrc:characters/sora/skins/default/default" },
 		{ "predicate": { "custom_model_data": 1561 }, "model": "ssbrc:characters/sora/skins/default/anti" },
 		{ "predicate": { "custom_model_data": 1562 }, "model": "ssbrc:characters/sora/skins/default/valor" },
