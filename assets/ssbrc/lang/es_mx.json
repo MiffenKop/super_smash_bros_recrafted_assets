@@ -49,8 +49,8 @@
 	"ssbrc.shop.purchase": "Haga clic para comprar!",
 	"ssbrc.shop.owned": "Posesión",
 
-	"ssbrc.lobby.selector": "Selector",
-	"ssbrc.lobby.selector.suffix": "] to interact with objects!",
+	"ssbrc.lobby.selector": "Puntero",
+	"ssbrc.lobby.selector.suffix": "] para interactuar con objetos",
 
 	"ssbrc.lobby.welcome": "Bienvenido a",
 	"ssbrc.lobby.join": "Unirse al juego",
@@ -175,23 +175,23 @@
 	"ssbrc.game.timeout": "¡TIEMPO!",
 	"ssbrc.game.suddenDeath": "¡MUERTE SÚBITA!",
 	"ssbrc.game.stocks": "Vidas",
-	"ssbrc.game.points": "Points",
-	"ssbrc.game.timeLeft": "Time Remaining",
-	"ssbrc.game.out": " has run out of stocks!",
+	"ssbrc.game.points": "Puntaje",
+	"ssbrc.game.timeLeft": "Tiempo Restante",
+	"ssbrc.game.out": " se ha quedado sin existencias",
 	"ssbrc.game.fighters": "Combatientes",
 	"ssbrc.game.skins": "Skins",
 
-	"ssbrc.game.end.summary": "Post-Game Summary",
+	"ssbrc.game.end.summary": "Resumen posterior al juego",
 
-	"ssbrc.game.end.summary.winner": "Winner: ",
-	"ssbrc.game.end.summary.duration": "Match Duration: ",
+	"ssbrc.game.end.summary.winner": "Ganador: ",
+	"ssbrc.game.end.summary.duration": "Duración del Partido: ",
 
 	"ssbrc.game.end.warn.singleplayer": "One-player matches do not count towards your stats.",
 	"ssbrc.game.end.warn.cheater": "You did not gain anything for this match because you switched gamemodes.",
 	"ssbrc.game.end.warn.spectator": "You did not gain anything for this match because you were a spectator.",
 
-	"ssbrc.game.end.summary.showBonuses": "Show Bonuses",
-	"ssbrc.game.end.summary.creditsEarned": "Credits Earned: ",
+	"ssbrc.game.end.summary.showBonuses": "Mostrar Bonos",
+	"ssbrc.game.end.summary.creditsEarned": "Créditos Ganados: ",
 
 	"ssbrc.game.bonus.8PlayerMatch": "8-Player Match",
 	"ssbrc.game.bonus.acrobat": "Acrobat",
@@ -287,12 +287,12 @@
 	"ssbrc.options.music.shuffle": "Shuffle",
 	"ssbrc.options.music.shuffleDescription": "Picks a song at random associated with the current stage.",
 
-	"ssbrc.options.reset": "Reset to Defaults",
-	"ssbrc.options.reset.confirm": "Game options have been reset to default!",
+	"ssbrc.options.reset": "Opciones Predeterminadas",
+	"ssbrc.options.reset.confirm": "¡Las opciones del juego se han restablecido a sus valores predeterminados!",
 
 	"ssbrc.admin.forceReset": "All player data has been successfully reset.",
 
-	"ssbrc.fighters.menu.selectFighter": "Select Fighter",
+	"ssbrc.fighters.menu.selectFighter": "Seleccionar Combatiente",
 	"ssbrc.fighters.menu.skinOptions": "Skin Options",
 	"ssbrc.fighters.menu.skinOptions.description": " to change your equipped skin!",
 	"ssbrc.fighters.menu.wiki": "Click for Wiki",
@@ -793,7 +793,7 @@
 
 	"ssbrc.series.sonicTheHedgehog": "Sonic the Hedgehog",
 	"ssbrc.fighters.sonic": "Sonic",
-	"ssbrc.tooltips.sonic.maniaPunch": "Mania Punch",
+	"ssbrc.tooltips.sonic.maniaPunch": "Sonic Puñetazo",
 	"ssbrc.fighters.shadow": "Shadow",
 	"ssbrc.tooltips.shadow.blackSword": "Black Sword",
 	"ssbrc.tooltips.shadow.chaosSpear": "Chaos Spear",
