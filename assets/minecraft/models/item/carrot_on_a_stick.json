@@ -144,6 +144,12 @@
 		{ "predicate": { "custom_model_data": 1201 }, "model": "ssbrc:characters/pikachu/items/electric_terrain" },
 
 		{ "predicate": { "custom_model_data": 1220 }, "model": "ssbrc:characters/pit/skins/default" },
+		{ "predicate": { "custom_model_data": 1221 }, "model": "ssbrc:characters/pit/items/palutena_bow/default/idle" },
+		{ "predicate": { "custom_model_data": 1222 }, "model": "ssbrc:characters/pit/items/palutena_bow/default/pulling_0" },
+		{ "predicate": { "custom_model_data": 1223 }, "model": "ssbrc:characters/pit/items/palutena_bow/default/pulling_1" },
+		{ "predicate": { "custom_model_data": 1224 }, "model": "ssbrc:characters/pit/items/palutena_bow/default/pulling_2" },
+		{ "predicate": { "custom_model_data": 1225 }, "model": "ssbrc:characters/pit/items/palutena_bow/default/split" },
+		{ "predicate": { "custom_model_data": 1226 }, "model": "ssbrc:characters/pit/items/guardian_orbitars/default" },
 
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
 
