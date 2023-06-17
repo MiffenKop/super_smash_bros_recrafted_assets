@@ -275,8 +275,8 @@
 	"ssbrc.options.teams": "Equipos",
 	"ssbrc.options.teamsTitle": "Equipos: ",
 
-	"ssbrc.options.friendlyFire": "Friendly Fire",
-	"ssbrc.options.friendlyFireTitle": "Friendly Fire: ",
+	"ssbrc.options.friendlyFire": "Ataque en equipo",
+	"ssbrc.options.friendlyFireTitle": "Ataque en equipo: ",
 
 	"ssbrc.options.blindPick": "Elección ciega",
 	"ssbrc.options.blindPickTitle": "Elección ciega: ",
@@ -303,8 +303,8 @@
 	"ssbrc.fighters.menu.wiki.description": " to open this Fighter's wiki!",
 
 	"ssbrc.fighters.menu.selectRandom": "¡Has seleccionado un luchador al azar!",
-	"ssbrc.fighters.menu.selected": "You have selected ",
-	"ssbrc.fighters.menu.chooseSkin": "Choose Skin",
+	"ssbrc.fighters.menu.selected": "Has seleccionado ",
+	"ssbrc.fighters.menu.chooseSkin": "Elija Aspecto",
 	"ssbrc.fighters.menu.skin": "Aspecto: ",
 	"ssbrc.fighters.menu.gender": "Género: ",
 	"ssbrc.fighters.menu.gender.female": "Femenina",
