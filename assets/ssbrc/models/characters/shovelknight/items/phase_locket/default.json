@@ -16,7 +16,6 @@
 			"scale": [0.25, 0.25, 0.25]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 12, 0],
 			"scale": [0.25, 0.25, 0.25]
 		}
 	}

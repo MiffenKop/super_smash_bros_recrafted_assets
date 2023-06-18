@@ -1125,6 +1125,60 @@
 			}
 		]
 	},
+	"fighters.pit.guardian_orbitars.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/pit/guardian_orbitars/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pit.guardian_orbitars.break": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/pit/guardian_orbitars/break",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pit.palutena_bow.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/pit/palutena_bow/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pit.palutena_bow.charge": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/pit/palutena_bow/charge",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pit.palutena_bow.split": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/pit/palutena_bow/split",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.pit.wings.regain": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/pit/wings/regain",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.pokemontrainer.charizard.flare_blitz.activate": {
 		"sounds":[
 			{
@@ -1283,6 +1337,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:characters/samus/wave_beam/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.samus.swap_weapon": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/samus/swap_weapon",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1495,6 +1558,24 @@
 			}
 		]
 	},
+	"fighters.sonic_the_hedgehog.drown": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/sonic_the_hedgehog/drown",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.sonic_the_hedgehog.lose_stock": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/sonic_the_hedgehog/lose_stock",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.sora.blizzaga.activate": {
 		"sounds":[
 			{
@@ -1563,6 +1644,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:characters/sora/thundaga/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.sora.low_health_alert": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/sora/low_health_alert",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1748,6 +1838,24 @@
 			}
 		]
 	},
+	"items.angel_feather.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/angel_feather/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"items.angel_feather.jump": {
+		"sounds":[
+			{
+				"name":"ssbrc:items/angel_feather/jump",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"items.metal_box.activate": {
 		"sounds":[
 			{
@@ -1807,25 +1915,16 @@
 			}
 		]
 	},
-	"eat_fruit": {
+	"stages.pac_maze.pac_maze.eat_fruit": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/eat_fruit",
+				"name":"ssbrc:maps/p/pac_maze/pac_maze/eat_fruit",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"eat_ghost_mrs": {
-		"sounds":[
-			{
-				"name":"ssbrc:maps/p/pac_maze/eat_ghost_mrs",
-				"stream":false,
-				"volume": 1.0
-			}
-		]
-	},
-	"eat_ghost": {
+	"stages.pac_maze.pac_maze.eat_ghost": {
 		"sounds":[
 			{
 				"name":"ssbrc:maps/p/pac_maze/eat_ghost",
@@ -1834,7 +1933,71 @@
 			}
 		]
 	},
-	"extend": {
+	"stages.pac_maze.pac_maze.munch": {
+		"sounds":[
+			{
+				"name":"ssbrc:maps/p/pac_maze/pac_maze/munch_1",
+				"stream":false,
+				"volume": 1.0
+			},
+			{
+				"name":"ssbrc:maps/p/pac_maze/pac_maze/munch_2",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pac_maze.pac_maze.power_pellet": {
+		"sounds":[
+			{
+				"name":"ssbrc:maps/p/pac_maze/pac_maze/power_pellet",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pac_maze.mrs_pac_maze.eat_fruit": {
+		"sounds":[
+			{
+				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/eat_fruit",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pac_maze.mrs_pac_maze.eat_ghost": {
+		"sounds":[
+			{
+				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/eat_ghost",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pac_maze.mrs_pac_maze.munch": {
+		"sounds":[
+			{
+				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/munch_1",
+				"stream":false,
+				"volume": 1.0
+			},
+			{
+				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/munch_2",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pac_maze.mrs_pac_maze.power_pellet": {
+		"sounds":[
+			{
+				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/power_pellet",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"stages.pac_maze.extend": {
 		"sounds":[
 			{
 				"name":"ssbrc:maps/p/pac_maze/extend",
@@ -1843,30 +2006,7 @@
 			}
 		]
 	},
-	"munch": {
-		"sounds":[
-			{
-				"name":"ssbrc:maps/p/pac_maze/munch_1",
-				"stream":false,
-				"volume": 1.0
-			},
-			{
-				"name":"ssbrc:maps/p/pac_maze/munch_2",
-				"stream":false,
-				"volume": 1.0
-			}
-		]
-	},
-	"power_pellet": {
-		"sounds":[
-			{
-				"name":"ssbrc:maps/p/pac_maze/power_pellet",
-				"stream":false,
-				"volume": 1.0
-			}
-		]
-	},
-	"retreating": {
+	"stages.pac_maze.retreating": {
 		"sounds":[
 			{
 				"name":"ssbrc:maps/p/pac_maze/retreating",
@@ -1875,7 +2015,7 @@
 			}
 		]
 	},
-	"siren": {
+	"stages.pac_maze.siren": {
 		"sounds":[
 			{
 				"name":"ssbrc:maps/p/pac_maze/siren",
