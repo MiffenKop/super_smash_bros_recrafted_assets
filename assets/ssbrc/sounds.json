@@ -484,6 +484,15 @@
 			}
 		]
 	},
+	"fighters.donkeykong.barrel.activate": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/donkeykong/barrel/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.donkeykong.barrel.bounce": {
 		"sounds":[
 			{
@@ -1653,6 +1662,15 @@
 		"sounds":[
 			{
 				"name":"ssbrc:characters/sora/low_health_alert",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.super_mario_bros.stomp": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/super_mario_bros/stomp",
 				"stream":false,
 				"volume": 1.0
 			}
