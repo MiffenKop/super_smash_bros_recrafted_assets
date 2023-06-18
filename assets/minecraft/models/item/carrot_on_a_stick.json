@@ -331,13 +331,21 @@
 
 		{ "predicate": { "custom_model_data": 9064 }, "model": "ssbrc:characters/zelda/items/dungeon_items/bomb/stowed" },
 
-		{ "predicate": { "custom_model_data": 50003 }, "model": "ssbrc:pokemon/type_icons/electric" },
-		{ "predicate": { "custom_model_data": 50006 }, "model": "ssbrc:pokemon/type_icons/fire" },
-		{ "predicate": { "custom_model_data": 50008 }, "model": "ssbrc:pokemon/type_icons/ghost" },
-		{ "predicate": { "custom_model_data": 50009 }, "model": "ssbrc:pokemon/type_icons/grass" },
-		{ "predicate": { "custom_model_data": 50012 }, "model": "ssbrc:pokemon/type_icons/normal" },
-		{ "predicate": { "custom_model_data": 50013 }, "model": "ssbrc:pokemon/type_icons/poison" },
-		{ "predicate": { "custom_model_data": 50018 }, "model": "ssbrc:pokemon/type_icons/water" },
+		{ "predicate": { "custom_model_data": 50003 }, "model": "ssbrc:pokemon/type_icons/electric/default" },
+		{ "predicate": { "custom_model_data": 50006 }, "model": "ssbrc:pokemon/type_icons/fire/default" },
+		{ "predicate": { "custom_model_data": 50008 }, "model": "ssbrc:pokemon/type_icons/ghost/default" },
+		{ "predicate": { "custom_model_data": 50009 }, "model": "ssbrc:pokemon/type_icons/grass/default" },
+		{ "predicate": { "custom_model_data": 50012 }, "model": "ssbrc:pokemon/type_icons/normal/default" },
+		{ "predicate": { "custom_model_data": 50013 }, "model": "ssbrc:pokemon/type_icons/poison/default" },
+		{ "predicate": { "custom_model_data": 50018 }, "model": "ssbrc:pokemon/type_icons/water/default" },
+
+		{ "predicate": { "custom_model_data": 60003 }, "model": "ssbrc:pokemon/type_icons/electric/disabled" },
+		{ "predicate": { "custom_model_data": 60006 }, "model": "ssbrc:pokemon/type_icons/fire/disabled" },
+		{ "predicate": { "custom_model_data": 60008 }, "model": "ssbrc:pokemon/type_icons/ghost/disabled" },
+		{ "predicate": { "custom_model_data": 60009 }, "model": "ssbrc:pokemon/type_icons/grass/disabled" },
+		{ "predicate": { "custom_model_data": 60012 }, "model": "ssbrc:pokemon/type_icons/normal/disabled" },
+		{ "predicate": { "custom_model_data": 60013 }, "model": "ssbrc:pokemon/type_icons/poison/disabled" },
+		{ "predicate": { "custom_model_data": 60018 }, "model": "ssbrc:pokemon/type_icons/water/disabled" },
 
 		{ "predicate": { "custom_model_data": 9999988 }, "model": "minecraft:item/leather_chestplate" },
 		{ "predicate": { "custom_model_data": 9999989 }, "model": "minecraft:item/written_book" },
