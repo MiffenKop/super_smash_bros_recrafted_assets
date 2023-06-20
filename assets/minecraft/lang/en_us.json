@@ -2,6 +2,7 @@
 	"block.minecraft.cyan_carpet": "Quicksand",
 	"block.minecraft.barrier": "",
 
+	"container.crafting": "",
 	"container.enderchest": "",
 
 	"death.attack.wither": "%1$s burned to a crisp",

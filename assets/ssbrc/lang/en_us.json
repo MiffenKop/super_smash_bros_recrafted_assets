@@ -51,7 +51,7 @@
 	"ssbrc.shop.owned": "Owned",
 
 	"ssbrc.lobby.selector": "Selector",
-	"ssbrc.lobby.selector.suffix": "] to interact with objects!",
+	"ssbrc.lobby.selector.suffix": "] to interact with objects",
 
 	"ssbrc.lobby.welcome": "Welcome to",
 	"ssbrc.lobby.join": "Join Game",
@@ -909,6 +909,10 @@
 	"ssbrc.tooltips.alucard.holyWater": "Holy Water",
 	"ssbrc.tooltips.alucard.holyWater.description.1": "] to throw a vial of holy water",
 	"ssbrc.tooltips.alucard.holyWater.description.2": "- Explodes into a pool of flames",
+	"ssbrc.tooltips.alucard.mist": "Mist",
+	"ssbrc.tooltips.alucard.mist.description.1": "] in midair to activate Mist",
+	"ssbrc.tooltips.alucard.mist.description.2": " - Allows the user to float upwards",
+	"ssbrc.tooltips.alucard.mist.description.3": " - Renders the user temporarily invulnerable",
 	"ssbrc.stages.draculasCastle": "Dracula's Castle",
 	"ssbrc.music.aquarius": "Aquarius",
 	"ssbrc.music.bloodyTears": "Bloody Tears",
@@ -1125,6 +1129,10 @@
 
 	"ssbrc.tooltips.holdKey": "- Hold [",
 
+	"ssbrc.tooltips.noAbilities": "This fighter does not",
+	"ssbrc.tooltips.noPassives": "any passive abilities.",
+	"ssbrc.tooltips.noUtilities": "possess any utility abilities.",
+
 	"ssbrc.tooltips.item.angelFeather": "Angel Feather",
 	"ssbrc.tooltips.item.angelFeather.description.1": "- Drastically increases jump height and grants slow falling",
 	"ssbrc.tooltips.item.angelFeather.description.2": "- Lasts for a single jump",
@@ -1159,12 +1167,14 @@
 
 	"ssbrc.tooltips.ability.offensive": "Offensive Ability",
 	"ssbrc.tooltips.ability.utility": "Utility Ability",
+	"ssbrc.tooltips.ability.utilities": "Utility Abilities",
 	"ssbrc.tooltips.ability.support": "Support Ability",
 	"ssbrc.tooltips.ability.movement": "Movement Ability",
 	"ssbrc.tooltips.ability.transformation": "Transformation Ability",
 	"ssbrc.tooltips.ability.augment": "Augment Ability",
 	"ssbrc.tooltips.ability.infusion": "Infusion Ability",
 	"ssbrc.tooltips.ability.passive": "Passive Ability",
+	"ssbrc.tooltips.ability.passives": "Passive Abilities",
 
 	"ssbrc.tooltips.ability.activate": "] to fire",
 	"ssbrc.tooltips.ability.description.bounce": "- Bounces along the ground",

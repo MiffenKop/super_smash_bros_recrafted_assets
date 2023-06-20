@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/iron_sword"
+		"layer0": "item/string"
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:characters/kirby/items/tornado/gold" }
