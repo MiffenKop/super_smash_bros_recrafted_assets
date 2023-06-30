@@ -40,6 +40,7 @@
 		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:characters/ganondorf/skins/default" },
 		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:characters/ganondorf/skins/gold" },
 		{ "predicate": { "custom_model_data": 402 }, "model": "ssbrc:characters/ganondorf/skins/ocarina_of_time" },
+		{ "predicate": { "custom_model_data": 403 }, "model": "ssbrc:characters/ganondorf/skins/tears_of_the_kingdom" },
 		{ "predicate": { "custom_model_data": 420 }, "model": "ssbrc:characters/greninja/skins/default" },
 		{ "predicate": { "custom_model_data": 421 }, "model": "ssbrc:characters/greninja/skins/gold" },
 		{ "predicate": { "custom_model_data": 422 }, "model": "ssbrc:characters/greninja/skins/shiny" },
