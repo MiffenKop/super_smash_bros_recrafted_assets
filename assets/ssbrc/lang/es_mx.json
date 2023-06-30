@@ -42,7 +42,7 @@
 	"ssbrc.ui.page2": "Página 2",
 	"ssbrc.ui.page3": "Página 3",
 
-	"ssbrc.shop.purchase.fighter": "Usted ha comprado ",
+	"ssbrc.shop.purchase.fighter": "Usted ha comprado: ",
 	"ssbrc.shop.purchase.skin": "Has comprado el: ",
 	"ssbrc.shop.credits": "Créditos: ",
 	"ssbrc.shop.price": "Precio: ",
@@ -303,7 +303,7 @@
 	"ssbrc.fighters.menu.wiki.description": " para abrir el wiki de este combatiente",
 
 	"ssbrc.fighters.menu.selectRandom": "¡Has seleccionado un luchador al azar!",
-	"ssbrc.fighters.menu.selected": "Has seleccionado ",
+	"ssbrc.fighters.menu.selected": "Has seleccionado: ",
 	"ssbrc.fighters.menu.chooseSkin": "Elija Aspecto",
 	"ssbrc.fighters.menu.skin": "Aspecto: ",
 	"ssbrc.fighters.menu.gender": "Género: ",
