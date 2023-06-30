@@ -1,0 +1,15 @@
+{
+	"sources": [
+		{
+			"type": "paletted_permutations",
+			"textures": [
+				"ssbrc:trims/models/armor/link",
+				"ssbrc:trims/models/armor/link_leggings"
+			],
+			"palette_key": "trims/color_palettes/trim_palette",
+			"permutations": {
+				"quartz": "trims/color_palettes/quartz"
+			}
+		}
+	]
+}
