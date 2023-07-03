@@ -150,6 +150,7 @@
 		{ "predicate": { "custom_model_data": 1224 }, "model": "ssbrc:characters/pit/items/palutena_bow/default/pulling_2" },
 		{ "predicate": { "custom_model_data": 1225 }, "model": "ssbrc:characters/pit/items/palutena_bow/default/split" },
 		{ "predicate": { "custom_model_data": 1226 }, "model": "ssbrc:characters/pit/items/guardian_orbitars/default" },
+		{ "predicate": { "custom_model_data": 1227 }, "model": "ssbrc:characters/pit/items/guardian_orbitars/gold" },
 
 		{ "predicate": { "custom_model_data": 1260 }, "model": "ssbrc:items/pokeball" },
 
