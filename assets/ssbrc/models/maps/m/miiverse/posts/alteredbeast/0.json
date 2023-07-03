@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "ssbrc:maps/m/miiverse/signatures/jedimasterhomer",
-		"layer0": "ssbrc:maps/m/miiverse/posts/alteredbeast/0"
+		"layer0": "ssbrc:maps/m/miiverse/posts/alteredbeast/0",
+		"particle": "ssbrc:maps/m/miiverse/posts/alteredbeast/0"
 	},
 	"elements": [
 		{
