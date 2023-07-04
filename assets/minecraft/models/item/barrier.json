@@ -75,6 +75,7 @@
 		{ "predicate": { "custom_model_data": 820 }, "model": "ssbrc:characters/luigi/skins/default" },
 		{ "predicate": { "custom_model_data": 821 }, "model": "ssbrc:characters/luigi/skins/gold" },
 		{ "predicate": { "custom_model_data": 822 }, "model": "ssbrc:characters/luigi/skins/flower_power" },
+		{ "predicate": { "custom_model_data": 823 }, "model": "ssbrc:characters/luigi/skins/gooigi" },
 		{ "predicate": { "custom_model_data": 840 }, "model": "ssbrc:characters/mario/skins/default" },
 		{ "predicate": { "custom_model_data": 841 }, "model": "ssbrc:characters/mario/skins/gold" },
 		{ "predicate": { "custom_model_data": 842 }, "model": "ssbrc:characters/mario/skins/flower_power" },
