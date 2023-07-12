@@ -41,6 +41,7 @@
 		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:characters/ganondorf/skins/gold" },
 		{ "predicate": { "custom_model_data": 402 }, "model": "ssbrc:characters/ganondorf/skins/ocarina_of_time" },
 		{ "predicate": { "custom_model_data": 403 }, "model": "ssbrc:characters/ganondorf/skins/tears_of_the_kingdom" },
+		{ "predicate": { "custom_model_data": 404 }, "model": "ssbrc:characters/ganondorf/skins/wind_waker" },
 		{ "predicate": { "custom_model_data": 420 }, "model": "ssbrc:characters/greninja/skins/default" },
 		{ "predicate": { "custom_model_data": 421 }, "model": "ssbrc:characters/greninja/skins/gold" },
 		{ "predicate": { "custom_model_data": 422 }, "model": "ssbrc:characters/greninja/skins/shiny" },
@@ -196,6 +197,7 @@
 		{ "predicate": { "custom_model_data": 1950 }, "model": "ssbrc:characters/teamrocket/skins/gold/wobbuffet" },
 		{ "predicate": { "custom_model_data": 1960 }, "model": "ssbrc:characters/yar/skins/default" },
 		{ "predicate": { "custom_model_data": 1961 }, "model": "ssbrc:characters/yar/skins/gold" },
+		{ "predicate": { "custom_model_data": 1962 }, "model": "ssbrc:characters/yar/skins/recruit" },
 
 		{ "predicate": { "custom_model_data": 9999 }, "model": "ssbrc:characters/random" },
 		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:characters/spectator" },

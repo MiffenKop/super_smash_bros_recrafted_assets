@@ -502,6 +502,7 @@
 	"ssbrc.fighters.ganondorf": "Ganondorf",
 	"ssbrc.fighters.ganondorf.skin.ocarinaOfTime": "Ocarina of Time",
 	"ssbrc.fighters.ganondorf.skin.tearsOfTheKingdom": "Tears of the Kingdom",
+	"ssbrc.fighters.ganondorf.skin.windWaker": "Wind Waker",
 	"ssbrc.tooltips.ganondorf.swordOfTheSixSages": "Sword of the Six Sages",
 	"ssbrc.tooltips.ganondorf.warlockBlade": "Warlock Blade",
 	"ssbrc.tooltips.ganondorf.gloomSword": "Gloom Sword",
@@ -1163,6 +1164,7 @@
 
 	"ssbrc.series.yarsRevenge": "Yars' Revenge",
 	"ssbrc.fighters.yar": "Yar",
+	"ssbrc.fighters.yar.skin.recruit": "Recruit",
 	"ssbrc.tooltips.yar.killspaceBlade": "Killspace Blade",
 	"ssbrc.tooltips.yar.rayBlaster": "Ray Blaster",
 	"ssbrc.tooltips.yar.gatlingGun": "Gatling Gun",
