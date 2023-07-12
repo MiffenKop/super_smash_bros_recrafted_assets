@@ -1945,7 +1945,7 @@
 	"stages.pac_maze.pac_maze.eat_ghost": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/eat_ghost",
+				"name":"ssbrc:maps/p/pac_maze/pac_maze/eat_ghost",
 				"stream":false,
 				"volume": 1.0
 			}
