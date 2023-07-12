@@ -59,26 +59,6 @@
 		],
 		"replace":true
 	},
-	"item.armor.equip_chain": {
-		"sounds":[
-			{
-				"name":"ssbrc:silent",
-				"stream":false,
-				"volume": 0.0
-			}
-		],
-		"replace":true
-	},
-	"item.armor.equip_diamond": {
-		"sounds":[
-			{
-				"name":"ssbrc:silent",
-				"stream":false,
-				"volume": 0.0
-			}
-		],
-		"replace":true
-	},
 	"item.armor.equip_generic": {
 		"sounds":[
 			{
@@ -89,37 +69,7 @@
 		],
 		"replace":true
 	},
-	"item.armor.equip_gold": {
-		"sounds":[
-			{
-				"name":"ssbrc:silent",
-				"stream":false,
-				"volume": 0.0
-			}
-		],
-		"replace":true
-	},
 	"item.armor.equip_iron": {
-		"sounds":[
-			{
-				"name":"ssbrc:silent",
-				"stream":false,
-				"volume": 0.0
-			}
-		],
-		"replace":true
-	},
-	"item.armor.equip_leather": {
-		"sounds":[
-			{
-				"name":"ssbrc:silent",
-				"stream":false,
-				"volume": 0.0
-			}
-		],
-		"replace":true
-	},
-	"item.armor.equip_netherite": {
 		"sounds":[
 			{
 				"name":"ssbrc:silent",
