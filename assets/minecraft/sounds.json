@@ -158,5 +158,315 @@
 			}
 		],
 		"replace":true
+	},
+	"music.creative": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.credits": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.dragon": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.end": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.game": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.menu": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.nether.basalt_deltas": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.nether.crimson_forest": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.nether.nether_wastes": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.nether.soul_sand_valley": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.nether.warped_forest": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.badlands": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.bamboo_jungle": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.cherry_grove": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.deep_dark": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.desert": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.dripstone_caves": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.flower_forest": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.forest": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.frozen_peaks": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.grove": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.jagged_peaks": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.jungle": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.lush_caves": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.meadow": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.old_growth_taiga": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.snowy_slopes": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.sparse_jungle": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.stony_peaks": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.overworld.swamp": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
+	},
+	"music.under_water": {
+		"sounds":[
+			{
+				"name":"ssbrc:silent",
+				"stream":false,
+				"volume": 0.0
+			}
+		],
+		"replace":true
 	}
 }
