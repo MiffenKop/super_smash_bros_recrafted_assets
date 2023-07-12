@@ -4,8 +4,8 @@
 		"layer0": "item/netherite_sword"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:characters/ganondorf/items/warlock_blade" },
-		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:characters/ganondorf/items/gloom_sword" },
+		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:characters/ganondorf/items/sword/ocarina_of_time" },
+		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:characters/ganondorf/items/sword/tears_of_the_kingdom" },
 		{ "predicate": { "custom_model_data": 1900 }, "model": "ssbrc:characters/shadow/items/black_sword/default" },
 		{ "predicate": { "custom_model_data": 1901 }, "model": "ssbrc:characters/shadow/items/black_sword/gold" }
 	]

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ssbrc:characters/ganondorf/items/warlock_blade"
+		"layer0": "ssbrc:characters/ganondorf/items/sword/ocarina_of_time"
 	},
 	"display": {
 		"thirdperson_righthand": {
