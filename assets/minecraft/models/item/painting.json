@@ -22,6 +22,7 @@
 		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:maps/m/miiverse/posts/kingkrool/0" },
 		{ "predicate": { "custom_model_data": 800 }, "model": "ssbrc:maps/m/miiverse/posts/kirby/0" },
 		{ "predicate": { "custom_model_data": 850 }, "model": "ssbrc:maps/m/miiverse/posts/link/0" },
+		{ "predicate": { "custom_model_data": 851 }, "model": "ssbrc:maps/m/miiverse/posts/link/1" },
 		{ "predicate": { "custom_model_data": 900 }, "model": "ssbrc:maps/m/miiverse/posts/luigi/0" },
 		{ "predicate": { "custom_model_data": 950 }, "model": "ssbrc:maps/m/miiverse/posts/mario/0" },
 		{ "predicate": { "custom_model_data": 951 }, "model": "ssbrc:maps/m/miiverse/posts/mario/1" },
