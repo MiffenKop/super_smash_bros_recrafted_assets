@@ -33,7 +33,7 @@
 			"to": [0, 8, 32],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 8]},
 			"faces": {
-				"up": {"rotation": 180, "texture": "#0"}
+				"up": {"uv": [0.1429, 0.1429, 15.8572, 15.8572], "rotation": 180, "texture": "#0"}
 			}
 		},
 		{
