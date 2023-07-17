@@ -37,6 +37,7 @@
 		{ "predicate": { "custom_model_data": 303 }, "model": "ssbrc:characters/donkeykong/skins/flower_power" },
 		{ "predicate": { "custom_model_data": 380 }, "model": "ssbrc:characters/fox/skins/default" },
 		{ "predicate": { "custom_model_data": 381 }, "model": "ssbrc:characters/fox/skins/gold" },
+		{ "predicate": { "custom_model_data": 382 }, "model": "ssbrc:characters/fox/skins/adventures" },
 		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:characters/ganondorf/skins/default" },
 		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:characters/ganondorf/skins/gold" },
 		{ "predicate": { "custom_model_data": 402 }, "model": "ssbrc:characters/ganondorf/skins/ocarina_of_time" },
