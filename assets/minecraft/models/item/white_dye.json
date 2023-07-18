@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:characters/shadow/skins/default" },
 		{ "predicate": { "custom_model_data": 752 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/vector/head" },
-		{ "predicate": { "custom_model_data": 754 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/cream/head" }
+		{ "predicate": { "custom_model_data": 754 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/cream/head" },
+		{ "predicate": { "custom_model_data": 756 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/espio/head" }
 	]
 }

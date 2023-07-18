@@ -9,6 +9,8 @@
 		{ "predicate": { "custom_model_data": 752 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/vector/arm_left" },
 		{ "predicate": { "custom_model_data": 753 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/vector/arm_right" },
 		{ "predicate": { "custom_model_data": 754 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/cream/arm_left" },
-		{ "predicate": { "custom_model_data": 755 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/cream/arm_right" }
+		{ "predicate": { "custom_model_data": 755 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/cream/arm_right" },
+		{ "predicate": { "custom_model_data": 754 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/espio/arm_left" },
+		{ "predicate": { "custom_model_data": 755 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/espio/arm_right" }
 	]
 }
