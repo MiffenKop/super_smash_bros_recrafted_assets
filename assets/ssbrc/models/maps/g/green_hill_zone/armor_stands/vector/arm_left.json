@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "ssbrc:characters/shadow/skins/default"
+		"0": "ssbrc:maps/g/green_hill_zone/armor_stands/vector"
 	},
 	"elements": [
 		{

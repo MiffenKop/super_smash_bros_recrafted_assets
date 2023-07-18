@@ -338,7 +338,10 @@
 				"ssbrc:trims/models/armor/zelda_default",
 				"ssbrc:trims/models/armor/zelda_default_leggings",
 				"ssbrc:trims/models/armor/zelda_gold",
-				"ssbrc:trims/models/armor/zelda_gold_leggings"
+				"ssbrc:trims/models/armor/zelda_gold_leggings",
+
+				"ssbrc:trims/models/armor/armor_stands/vector",
+				"ssbrc:trims/models/armor/armor_stands/vector_leggings"
 			],
 			"palette_key": "trims/color_palettes/trim_palette",
 			"permutations": {

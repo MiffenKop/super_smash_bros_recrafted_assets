@@ -4,6 +4,7 @@
 		"layer0": "item/white_dye"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:characters/shadow/skins/default" }
+		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:characters/shadow/skins/default" },
+		{ "predicate": { "custom_model_data": 751 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/vector" }
 	]
 }
