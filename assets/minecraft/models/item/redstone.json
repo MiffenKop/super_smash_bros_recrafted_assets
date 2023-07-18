@@ -1,0 +1,10 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/redstone"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:maps/g/green_hill_zone/shadow/arm_left" },
+		{ "predicate": { "custom_model_data": 751 }, "model": "ssbrc:maps/g/green_hill_zone/shadow/arm_right" }
+	]
+}

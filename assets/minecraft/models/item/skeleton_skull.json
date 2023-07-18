@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/skeleton_skull"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:characters/shadow/skins/default" }
+	]
+}
