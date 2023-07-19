@@ -649,12 +649,8 @@
 	"ssbrc.tooltips.pokemontrainer.squirtle.bite": "Bite",
 	"ssbrc.tooltips.pokemontrainer.squirtle.bite.description.1": "- Has the chance to make the opponent flinch",
 	"ssbrc.tooltips.pokemontrainer.squirtle.waterGun": "Water Gun",
-<<<<<<< HEAD
 	"ssbrc.tooltips.pokemontrainer.squirtle.waterGun.description.1": "] to unleash a flurry of water beams",
 	"ssbrc.fighters.pokemontrainer.iChooseYou.prefix": "",
-=======
-	"ssbrc.tooltips.pokemontrainer.squirtle.waterGun.description.1": "] to unleash a flurry of water blasts",
->>>>>>> 50ce899118e167e5429f3effb3438e302f0fac5f
 	"ssbrc.fighters.pokemontrainer.iChooseYou": ", I choose you!",
 	"ssbrc.fighters.pokemontrainer.catchShiny": "You have caught a shiny for ",
 	"ssbrc.fighters.greninja": "Greninja",
