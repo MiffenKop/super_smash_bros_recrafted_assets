@@ -1179,6 +1179,15 @@
 			}
 		]
 	},
+	"fighters.pit.wings.lose": {
+		"sounds":[
+			{
+				"name":"ssbrc:characters/pit/wings/lose",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
 	"fighters.pit.wings.regain": {
 		"sounds":[
 			{
