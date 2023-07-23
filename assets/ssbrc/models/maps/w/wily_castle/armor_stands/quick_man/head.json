@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ssbrc:maps/s/sector_z/armor_stands/quick_man"
+		"0": "ssbrc:maps/w/wily_castle/armor_stands/quick_man"
 	},
 	"elements": [
 		{
