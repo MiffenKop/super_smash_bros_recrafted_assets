@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ssbrc:characters/hero/items/sword_of_light/gold"
+		"layer0": "ssbrc:characters/hero/items/sword/sword_of_light/disabled"
 	},
 	"display": {
 		"thirdperson_righthand": {
