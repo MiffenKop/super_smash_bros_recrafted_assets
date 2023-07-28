@@ -4,9 +4,10 @@
 		"layer0": "item/white_dye"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 150 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/default/head" },
-		{ "predicate": { "custom_model_data": 152 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/blue/head" },
-		{ "predicate": { "custom_model_data": 154 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/yellow/head" },
+		{ "predicate": { "custom_model_data": 150 }, "model": "ssbrc:characters/peach/skins/default" },
+		{ "predicate": { "custom_model_data": 152 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/default/head" },
+		{ "predicate": { "custom_model_data": 154 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/blue/head" },
+		{ "predicate": { "custom_model_data": 156 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/yellow/head" },
 		{ "predicate": { "custom_model_data": 200 }, "model": "ssbrc:maps/c/castle_siege/armor_stands/king/head" },
 		{ "predicate": { "custom_model_data": 500 }, "model": "ssbrc:maps/f/frozen_hijinx/armor_stands/funky_kong/head" },
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:maps/g/great_plateau/armor_stands/link/head" },
