@@ -1184,7 +1184,7 @@
 	"ssbrc.tooltips.yar.missileLauncher.description.2": "- Explodes on collision",
 	"ssbrc.tooltips.yar.missileLauncher.description.3": "- Speeds up over time",
 	"ssbrc.tooltips.yar.omnishot": "Omnishot",
-	"ssbrc.tooltips.yar.omnishot.description.1": "- Periodically fires eight blaster shots in a fan from the player",
+	"ssbrc.tooltips.yar.omnishot.description.1": "- Periodically fires eight evenly spaced blaster shots",
 	"ssbrc.tooltips.yar.railgun": "Railgun",
 	"ssbrc.tooltips.yar.railgun.description.1": "] to charge up a massive laser beam",
 	"ssbrc.tooltips.yar.railgun.description.2": "- Disappears after one shot",
