@@ -17,6 +17,7 @@
 		{ "predicate": { "custom_model_data": 200 }, "model": "ssbrc:map_icons/castle_siege" },
 		{ "predicate": { "custom_model_data": 250 }, "model": "ssbrc:map_icons/palutenas_temple" },
 		{ "predicate": { "custom_model_data": 300 }, "model": "ssbrc:map_icons/draculas_castle" },
+		{ "predicate": { "custom_model_data": 301 }, "model": "ssbrc:maps/d/draculas_castle/statue" },
 		{ "predicate": { "custom_model_data": 350 }, "model": "ssbrc:map_icons/dream_land" },
 		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:map_icons/final_destination" },
 		{ "predicate": { "custom_model_data": 450 }, "model": "ssbrc:map_icons/flat_zone" },
