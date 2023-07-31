@@ -16,8 +16,6 @@
 		{ "predicate": { "custom_model_data": 201 }, "model": "ssbrc:maps/c/castle_siege/armor_stands/king/arm_right" },
 		{ "predicate": { "custom_model_data": 500 }, "model": "ssbrc:maps/f/frozen_hijinx/armor_stands/funky_kong/arm_left" },
 		{ "predicate": { "custom_model_data": 501 }, "model": "ssbrc:maps/f/frozen_hijinx/armor_stands/funky_kong/arm_right" },
-		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:maps/g/great_plateau/armor_stands/link/arm_left" },
-		{ "predicate": { "custom_model_data": 701 }, "model": "ssbrc:maps/g/great_plateau/armor_stands/link/arm_right" },
 		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/shadow/arm_left" },
 		{ "predicate": { "custom_model_data": 751 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/shadow/arm_right" },
 		{ "predicate": { "custom_model_data": 752 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/amy/arm_left" },
