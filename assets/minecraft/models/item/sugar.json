@@ -26,6 +26,7 @@
 		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:map_icons/garden_of_hope" },
 		{ "predicate": { "custom_model_data": 650 }, "model": "ssbrc:map_icons/great_bay" },
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:map_icons/great_plateau" },
+		{ "predicate": { "custom_model_data": 701 }, "model": "ssbrc:maps/g/great_plateau/link" },
 		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:map_icons/green_hill_zone" },
 		{ "predicate": { "custom_model_data": 800 }, "model": "ssbrc:map_icons/hyrule_castle" },
 		{ "predicate": { "custom_model_data": 801 }, "model": "ssbrc:maps/h/hyrule_castle/triforce" },

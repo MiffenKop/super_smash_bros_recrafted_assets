@@ -65,6 +65,8 @@
 		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:characters/joker/skins/default/maskless" },
 		{ "predicate": { "custom_model_data": 602 }, "model": "ssbrc:characters/joker/skins/gold/default" },
 		{ "predicate": { "custom_model_data": 603 }, "model": "ssbrc:characters/joker/skins/gold/maskless" },
+		{ "predicate": { "custom_model_data": 604 }, "model": "ssbrc:characters/joker/skins/shujin_academy/default" },
+		{ "predicate": { "custom_model_data": 605 }, "model": "ssbrc:characters/joker/skins/shujin_academy/maskless" },
 		{ "predicate": { "custom_model_data": 680 }, "model": "ssbrc:characters/kingkrool/skins/default" },
 		{ "predicate": { "custom_model_data": 681 }, "model": "ssbrc:characters/kingkrool/skins/gold" },
 		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:characters/kirby/skins/default" },
