@@ -5,6 +5,8 @@
 			"textures": [
 				"ssbrc:trims/models/armor/fighters/alteredbeast/default/human",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/default/human_leggings",
+				"ssbrc:trims/models/armor/fighters/alteredbeast/default/demigod",
+				"ssbrc:trims/models/armor/fighters/alteredbeast/default/demigod_leggings",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/default/warebear",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/default/warebear_leggings",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/default/waredragon",
@@ -15,6 +17,8 @@
 				"ssbrc:trims/models/armor/fighters/alteredbeast/default/warewolf_leggings",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/gold/human",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/gold/human_leggings",
+				"ssbrc:trims/models/armor/fighters/alteredbeast/gold/demigod",
+				"ssbrc:trims/models/armor/fighters/alteredbeast/gold/demigod_leggings",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/gold/warebear",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/gold/warebear_leggings",
 				"ssbrc:trims/models/armor/fighters/alteredbeast/gold/waredragon",
