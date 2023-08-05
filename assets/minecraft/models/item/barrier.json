@@ -205,6 +205,8 @@
 		{ "predicate": { "custom_model_data": 9999 }, "model": "ssbrc:characters/random" },
 		{ "predicate": { "custom_model_data": 10000 }, "model": "ssbrc:characters/spectator" },
 
+		{ "predicate": { "custom_model_data": 99999 }, "model": "ssbrc:items/pokeball" },
+
 		{ "predicate": { "custom_model_data": 9999991 }, "model": "ssbrc:ui/arrow_left" },
 		{ "predicate": { "custom_model_data": 9999992 }, "model": "ssbrc:ui/arrow_right" }
 	]
