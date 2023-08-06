@@ -136,8 +136,8 @@
 
 	"ssbrc.sandbag.intro.1": "Hey you! Come over here for a second, will you?",
 	"ssbrc.sandbag.intro.2": "That's the spirit! Welcome to Super Smash Bros. Re:Crafted! You're new around here, huh? That's alright, I'm here to get you up to speed and ready to fight! My name is Mr. Sandbag. Here, take this Selector. Now point it at me and use it to talk to me!",
-	"ssbrc.sandbag.reminder": "Hey! You lost? To get started, walk over to the pad to my right!",
-	"ssbrc.sandbag.intro.3": "Great job! You're getting the hang of this. You'll need that item to select fighters and interact with other objects! When you're ready, walk over to the pad to my right to start a match! I'll help you further in there.",
+	"ssbrc.sandbag.reminder": "Hey! You lost? To get started, walk over to the pad to my left!",
+	"ssbrc.sandbag.intro.3": "Great job! You're getting the hang of this. You'll need that item to select fighters and interact with other objects! When you're ready, walk over to the pad to my left to start a match! I'll help you further in there.",
 	"ssbrc.sandbag.fighterSelect.1": "You made it, good! In this room, you can select a fighter to enter the battle with. Each fighter has a different set of attributes and abilities. To select a fighter, aim your Selector at them and use it!",
 	"ssbrc.sandbag.fighterSelect.unowned": "This fighter is currently locked! Fighters highlighted in red will not be able to be selected until you purchase them in the shop.",
 	"ssbrc.sandbag.fighterSelect.2": "Great job! You have now selected a fighter. In your hotbar, you will notice you now have two new items: Skin Options and Wiki. Though you don't have any skins yet, Skin Options will eventually list out all of the skins you have unlocked for that fighter. Wiki will take you to the wiki page for that fighter, which will give much more detailed info on their moveset.",
