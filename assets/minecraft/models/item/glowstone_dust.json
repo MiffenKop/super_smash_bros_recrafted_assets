@@ -4,6 +4,6 @@
 		"layer0": "item/diamond"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:characters/joker/items/hama/sigil" }
+		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/items/hama/sigil" }
 	]
 }

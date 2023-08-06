@@ -4,6 +4,6 @@
 		"layer0": "item/string"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:characters/kirby/items/tornado/gold" }
+		{ "predicate": { "custom_model_data": 700 }, "model": "ssbrc:fighters/kirby/items/tornado/gold" }
 	]
 }

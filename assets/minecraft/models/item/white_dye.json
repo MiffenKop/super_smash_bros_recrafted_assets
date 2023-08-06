@@ -4,13 +4,13 @@
 		"layer0": "item/white_dye"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 150 }, "model": "ssbrc:characters/peach/skins/default" },
+		{ "predicate": { "custom_model_data": 150 }, "model": "ssbrc:fighters/peach/skins/default" },
 		{ "predicate": { "custom_model_data": 152 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/default/head" },
 		{ "predicate": { "custom_model_data": 154 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/blue/head" },
 		{ "predicate": { "custom_model_data": 156 }, "model": "ssbrc:maps/b/bowsers_castle/armor_stands/toad/yellow/head" },
 		{ "predicate": { "custom_model_data": 200 }, "model": "ssbrc:maps/c/castle_siege/armor_stands/king/head" },
 		{ "predicate": { "custom_model_data": 500 }, "model": "ssbrc:maps/f/frozen_hijinx/armor_stands/funky_kong/head" },
-		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:characters/shadow/skins/default" },
+		{ "predicate": { "custom_model_data": 750 }, "model": "ssbrc:fighters/shadow/skins/default" },
 		{ "predicate": { "custom_model_data": 752 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/amy/head" },
 		{ "predicate": { "custom_model_data": 754 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/charmy/head" },
 		{ "predicate": { "custom_model_data": 756 }, "model": "ssbrc:maps/g/green_hill_zone/armor_stands/cream/head" },

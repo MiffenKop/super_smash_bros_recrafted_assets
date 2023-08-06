@@ -4,6 +4,6 @@
 		"layer0": "item/goat_horn"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:characters/shovelknight/items/war_horn/default" }
+		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovelknight/items/war_horn/default" }
 	]
 }

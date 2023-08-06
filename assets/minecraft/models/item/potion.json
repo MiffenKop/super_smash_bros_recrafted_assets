@@ -5,6 +5,6 @@
 		"layer1": "item/potion"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:characters/zelda/items/dungeon_items/red_potion" }
+		{ "predicate": { "custom_model_data": 1780 }, "model": "ssbrc:fighters/zelda/items/dungeon_items/red_potion" }
 	]
 }

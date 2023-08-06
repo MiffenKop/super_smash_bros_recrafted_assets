@@ -4,7 +4,7 @@
 		"layer0": "item/stone_sword"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:characters/joker/items/rebels_knife/default" },
-		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:characters/joker/items/rebels_knife/gold" }
+		{ "predicate": { "custom_model_data": 600 }, "model": "ssbrc:fighters/joker/items/rebels_knife/default" },
+		{ "predicate": { "custom_model_data": 601 }, "model": "ssbrc:fighters/joker/items/rebels_knife/gold" }
 	]
 }
