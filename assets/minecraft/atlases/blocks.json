@@ -2,7 +2,7 @@
 	"sources": [
 		{
 			"type": "directory",
-			"source": "characters",
+			"source": "fighters",
 			"prefix": "fighters/"
 		},
 		{
