@@ -284,6 +284,16 @@
 	"ssbrc.options.hazards": "Peligros",
 	"ssbrc.options.hazardsTitle": "Peligros: ",
 
+	"ssbrc.options.items": "Items",
+	"ssbrc.options.itemsTitle": "Items: ",
+
+	"ssbrc.options.itemRate": "Item Rate",
+	"ssbrc.options.itemRateTitle": "Item Rate: ",
+	"ssbrc.options.itemRate.fixed": "Fixed",
+	"ssbrc.options.itemRate.low": "Low",
+	"ssbrc.options.itemRate.medium": "Medium",
+	"ssbrc.options.itemRate.high": "High",
+
 	"ssbrc.options.music": "Música",
 	"ssbrc.options.musicTitle": "Música: ",
 	"ssbrc.options.music.loop": "Bucle",

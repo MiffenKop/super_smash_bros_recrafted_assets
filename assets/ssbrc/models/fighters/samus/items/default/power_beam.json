@@ -471,14 +471,14 @@
 			"scale": [4, 4, 3]
 		},
 		"firstperson_righthand": {
-			"rotation": [7, -9, 21],
-			"translation": [4.25, 1.25, -3],
-			"scale": [3.73, 3.96, 3]
+			"rotation": [0, -10, 0],
+			"translation": [4, 1, -1],
+			"scale": [4, 4, 3]
 		},
 		"firstperson_lefthand": {
-			"rotation": [7, -9, 21],
-			"translation": [4.25, 1.25, -3],
-			"scale": [3.73, 3.96, 3]
+			"rotation": [0, -10, 0],
+			"translation": [4, 1, -1],
+			"scale": [4, 4, 3]
 		},
 		"gui": {
 			"rotation": [45, 160, 0],

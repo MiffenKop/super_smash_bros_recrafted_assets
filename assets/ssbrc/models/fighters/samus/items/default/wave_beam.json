@@ -554,22 +554,22 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -1.5, -0.04],
+			"translation": [0, -1.5, 0],
 			"scale": [4, 4, 3]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, -1.5, -0.04],
+			"translation": [0, -1.5, 0],
 			"scale": [4, 4, 3]
 		},
 		"firstperson_righthand": {
-			"rotation": [9, -12, 19],
-			"translation": [1, 1.75, -0.75],
-			"scale": [3.61, 4, 3.38]
+			"rotation": [0, -10, 0],
+			"translation": [1, 2, 1],
+			"scale": [4, 4, 3]
 		},
 		"firstperson_lefthand": {
-			"rotation": [9, -12, 19],
-			"translation": [1, 1.75, -0.75],
-			"scale": [3.61, 4, 3.38]
+			"rotation": [0, -10, 0],
+			"translation": [1, 2, 1],
+			"scale": [4, 4, 3]
 		},
 		"gui": {
 			"rotation": [45, 160, 0],
