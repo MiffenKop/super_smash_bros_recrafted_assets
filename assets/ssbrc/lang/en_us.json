@@ -1225,6 +1225,9 @@
 	"ssbrc.tooltips.item.angelFeather": "Angel Feather",
 	"ssbrc.tooltips.item.angelFeather.description.1": "- Drastically increases jump height and grants slow falling",
 	"ssbrc.tooltips.item.angelFeather.description.2": "- Lasts for a single jump",
+	"ssbrc.tooltips.item.deathsScythe": "Death's Scythe",
+	"ssbrc.tooltips.item.deathsScythe.description.1": "- Instantly kills opponents at low health",
+	"ssbrc.tooltips.item.deathsScythe.description.2": "- Breaks after a few uses",
 	"ssbrc.tooltips.item.maximTomato": "Maxim Tomato",
 	"ssbrc.tooltips.item.maximTomato.description.1": "- Heals a moderate amount of health on use",
 	"ssbrc.tooltips.item.powerPellet": "Power Pellet",
@@ -1232,6 +1235,7 @@
 
 	"ssbrc.tooltips.item.activation": "Activation Item",
 	"ssbrc.tooltips.item.activation.activate": "] to activate",
+	"ssbrc.tooltips.item.battering": "Battering Item",
 	"ssbrc.tooltips.item.recovery": "Recovery Item",
 
 	"ssbrc.tooltips.effects.burning": "- Inflicts opponents with Burning",
