@@ -1232,8 +1232,10 @@
 	"ssbrc.tooltips.item.maximTomato.description.1": "- Heals a moderate amount of health on use",
 	"ssbrc.tooltips.item.powerPellet": "Power Pellet",
 	"ssbrc.tooltips.item.powerPellet.description.1": "- Allows ghosts to be eaten temporarily",
-	"ssbrc.tooltips.item.rayGun": "Maxim Tomato",
+	"ssbrc.tooltips.item.rayGun": "Ray Gun",
 	"ssbrc.tooltips.item.rayGun.description.1": "- Can be fired 16 times before breaking",
+	"ssbrc.tooltips.item.superMushroom": "Super Mushroom",
+	"ssbrc.tooltips.item.superMushroom.description.1": "- Grants strength and knockback resistance for 10 seconds",
 
 	"ssbrc.tooltips.item.activation": "Activation Item",
 	"ssbrc.tooltips.item.activation.activate": "] to activate",
