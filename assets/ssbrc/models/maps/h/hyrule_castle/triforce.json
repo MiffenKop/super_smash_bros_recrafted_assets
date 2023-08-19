@@ -5,10 +5,11 @@
 	},
 	"elements": [
 		{
-			"from": [-16, -4, 7.5],
-			"to": [32, 20, 8.5],
+			"from": [-16, -4, 8],
+			"to": [32, 20, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
 			}
 		}

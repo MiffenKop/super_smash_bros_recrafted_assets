@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ssbrc:characters/samus/items/arm_cannon/default/plasma_beam"
+		"0": "ssbrc:fighters/samus/items/arm_cannon/default/plasma_beam"
 	},
 	"elements": [
 		{
@@ -536,14 +536,14 @@
 			"scale": [4, 4, 3]
 		},
 		"firstperson_righthand": {
-			"rotation": [3, -7, 13],
-			"translation": [3.5, 0, -4.5],
-			"scale": [4, 4, 3.28]
+			"rotation": [0, -10, 0],
+			"translation": [3.5, 0, -3],
+			"scale": [4, 4, 3]
 		},
 		"firstperson_lefthand": {
-			"rotation": [3, -7, 13],
-			"translation": [3.5, 0, -4.5],
-			"scale": [4, 4, 3.28]
+			"rotation": [0, -10, 0],
+			"translation": [3.5, 0, -3],
+			"scale": [4, 4, 3]
 		},
 		"gui": {
 			"rotation": [45, 160, 0],
