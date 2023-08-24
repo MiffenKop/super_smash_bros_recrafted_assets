@@ -4,7 +4,7 @@
 		"layer0": "item/diamond_shovel"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovelknight/items/shovel_blade/gold/default" },
-		{ "predicate": { "custom_model_data": 1921 }, "model": "ssbrc:fighters/shovelknight/items/shovel_blade/gold/shovel_drop" }
+		{ "predicate": { "custom_model_data": 1920 }, "model": "ssbrc:fighters/shovel_knight/items/shovel_blade/gold/default" },
+		{ "predicate": { "custom_model_data": 1921 }, "model": "ssbrc:fighters/shovel_knight/items/shovel_blade/gold/shovel_drop" }
 	]
 }

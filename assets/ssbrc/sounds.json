@@ -80,64 +80,64 @@
 			}
 		]
 	},
-	"fighters.alteredbeast.electrocution.hit": {
+	"fighters.altered_beast.electrocution.hit": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/alteredbeast/electrocution/hit",
+				"name":"ssbrc:fighters/altered_beast/electrocution/hit",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.alteredbeast.electrocution.loop": {
+	"fighters.altered_beast.electrocution.loop": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/alteredbeast/electrocution/loop",
+				"name":"ssbrc:fighters/altered_beast/electrocution/loop",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.alteredbeast.flame_hands.activate": {
+	"fighters.altered_beast.flame_hands.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/alteredbeast/flame_hands/activate",
+				"name":"ssbrc:fighters/altered_beast/flame_hands/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.alteredbeast.transform.warebear": {
+	"fighters.altered_beast.transform.warebear": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/alteredbeast/transform/warebear",
+				"name":"ssbrc:fighters/altered_beast/transform/warebear",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.alteredbeast.transform.waredragon": {
+	"fighters.altered_beast.transform.waredragon": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/alteredbeast/transform/waredragon",
+				"name":"ssbrc:fighters/altered_beast/transform/waredragon",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.alteredbeast.transform.waretiger": {
+	"fighters.altered_beast.transform.waretiger": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/alteredbeast/transform/waretiger",
+				"name":"ssbrc:fighters/altered_beast/transform/waretiger",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.alteredbeast.transform.warewolf": {
+	"fighters.altered_beast.transform.warewolf": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/alteredbeast/transform/warewolf",
+				"name":"ssbrc:fighters/altered_beast/transform/warewolf",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -269,73 +269,73 @@
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.default.charge_voice": {
+	"fighters.captain_falcon.falcon_punch.default.charge_voice": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/falcon_punch/default/charge_voice",
+				"name":"ssbrc:fighters/captain_falcon/falcon_punch/default/charge_voice",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.default.charge": {
+	"fighters.captain_falcon.falcon_punch.default.charge": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/falcon_punch/default/charge",
+				"name":"ssbrc:fighters/captain_falcon/falcon_punch/default/charge",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.default.unleash_voice": {
+	"fighters.captain_falcon.falcon_punch.default.unleash_voice": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/falcon_punch/default/unleash_voice",
+				"name":"ssbrc:fighters/captain_falcon/falcon_punch/default/unleash_voice",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.default.unleash": {
+	"fighters.captain_falcon.falcon_punch.default.unleash": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/falcon_punch/default/unleash",
+				"name":"ssbrc:fighters/captain_falcon/falcon_punch/default/unleash",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.blood_falcon.charge": {
+	"fighters.captain_falcon.falcon_punch.blood_falcon.charge": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/falcon_punch/blood_falcon/charge",
+				"name":"ssbrc:fighters/captain_falcon/falcon_punch/blood_falcon/charge",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.falcon_punch.blood_falcon.unleash": {
+	"fighters.captain_falcon.falcon_punch.blood_falcon.unleash": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/falcon_punch/blood_falcon/unleash",
+				"name":"ssbrc:fighters/captain_falcon/falcon_punch/blood_falcon/unleash",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.raptor_boost.activate": {
+	"fighters.captain_falcon.raptor_boost.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/raptor_boost/activate",
+				"name":"ssbrc:fighters/captain_falcon/raptor_boost/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.captainfalcon.raptor_boost.hit": {
+	"fighters.captain_falcon.raptor_boost.hit": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/captainfalcon/raptor_boost/hit",
+				"name":"ssbrc:fighters/captain_falcon/raptor_boost/hit",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -431,99 +431,99 @@
 			}
 		]
 	},
-	"fighters.darksamus.phazon_beam.activate.1": {
+	"fighters.dark_samus.phazon_beam.activate.1": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/darksamus/phazon_beam/activate/1",
+				"name":"ssbrc:fighters/dark_samus/phazon_beam/activate/1",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.darksamus.phazon_beam.activate.2": {
+	"fighters.dark_samus.phazon_beam.activate.2": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/darksamus/phazon_beam/activate/2",
+				"name":"ssbrc:fighters/dark_samus/phazon_beam/activate/2",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.darksamus.phazon_beam.activate.3": {
+	"fighters.dark_samus.phazon_beam.activate.3": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/darksamus/phazon_beam/activate/3",
+				"name":"ssbrc:fighters/dark_samus/phazon_beam/activate/3",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
-	},"fighters.darksamus.phazon_beam.activate.4": {
+	},"fighters.dark_samus.phazon_beam.activate.4": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/darksamus/phazon_beam/activate/4",
-				"stream":false,
-				"volume": 1.0
-			}
-		]
-	},
-	"fighters.darksamus.phazon_overload.activate": {
-		"sounds":[
-			{
-				"name":"ssbrc:fighters/darksamus/phazon_overload/activate",
+				"name":"ssbrc:fighters/dark_samus/phazon_beam/activate/4",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.darksamus.phazon_spike.activate": {
+	"fighters.dark_samus.phazon_overload.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/darksamus/phazon_spike/activate",
+				"name":"ssbrc:fighters/dark_samus/phazon_overload/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.donkeykong.barrel.activate": {
+	"fighters.dark_samus.phazon_spike.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/donkeykong/barrel/activate",
+				"name":"ssbrc:fighters/dark_samus/phazon_spike/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.donkeykong.barrel.bounce": {
+	"fighters.donkey_kong.barrel.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/donkeykong/barrel/bounce",
+				"name":"ssbrc:fighters/donkey_kong/barrel/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.donkeykong.barrel.explode": {
+	"fighters.donkey_kong.barrel.bounce": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/donkeykong/barrel/explode",
+				"name":"ssbrc:fighters/donkey_kong/barrel/bounce",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.donkeykong.hand_slap.activate": {
+	"fighters.donkey_kong.barrel.explode": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/donkeykong/hand_slap/activate",
+				"name":"ssbrc:fighters/donkey_kong/barrel/explode",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.donkeykong.orange_grenade.bounce": {
+	"fighters.donkey_kong.hand_slap.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/donkeykong/orange_grenade/bounce",
+				"name":"ssbrc:fighters/donkey_kong/hand_slap/activate",
+				"stream":false,
+				"volume": 1.0
+			}
+		]
+	},
+	"fighters.donkey_kong.orange_grenade.bounce": {
+		"sounds":[
+			{
+				"name":"ssbrc:fighters/donkey_kong/orange_grenade/bounce",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -881,19 +881,19 @@
 			}
 		]
 	},
-	"fighters.kingkrool.blunderbuss.activate": {
+	"fighters.king_k_rool.blunderbuss.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/kingkrool/blunderbuss/activate",
+				"name":"ssbrc:fighters/king_k_rool/blunderbuss/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.kingkrool.blunderbuss.land": {
+	"fighters.king_k_rool.blunderbuss.land": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/kingkrool/blunderbuss/land",
+				"name":"ssbrc:fighters/king_k_rool/blunderbuss/land",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1197,38 +1197,38 @@
 			}
 		]
 	},
-	"fighters.pokemontrainer.charizard.flare_blitz.activate": {
+	"fighters.pokemon_trainer.charizard.flare_blitz.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/pokemontrainer/charizard/flare_blitz/activate",
+				"name":"ssbrc:fighters/pokemon_trainer/charizard/flare_blitz/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.pokemontrainer.ivysaur.leech_seed.activate": {
+	"fighters.pokemon_trainer.ivysaur.leech_seed.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/pokemontrainer/ivysaur/leech_seed/activate",
+				"name":"ssbrc:fighters/pokemon_trainer/ivysaur/leech_seed/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.pokemontrainer.squirtle.water_gun.activate": {
+	"fighters.pokemon_trainer.squirtle.water_gun.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/pokemontrainer/squirtle/water_gun/activate/1",
+				"name":"ssbrc:fighters/pokemon_trainer/squirtle/water_gun/activate/1",
 				"stream":false,
 				"volume": 1.0
 			},
 			{
-				"name":"ssbrc:fighters/pokemontrainer/squirtle/water_gun/activate/2",
+				"name":"ssbrc:fighters/pokemon_trainer/squirtle/water_gun/activate/2",
 				"stream":false,
 				"volume": 1.0
 			},
 			{
-				"name":"ssbrc:fighters/pokemontrainer/squirtle/water_gun/activate/3",
+				"name":"ssbrc:fighters/pokemon_trainer/squirtle/water_gun/activate/3",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1414,73 +1414,73 @@
 			}
 		]
 	},
-	"fighters.shovelknight.chaos_sphere.hit": {
+	"fighters.shovel_knight.chaos_sphere.hit": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/chaos_sphere/hit",
+				"name":"ssbrc:fighters/shovel_knight/chaos_sphere/hit",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.shovelknight.flare_wand.activate": {
+	"fighters.shovel_knight.flare_wand.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/flare_wand/activate",
+				"name":"ssbrc:fighters/shovel_knight/flare_wand/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.shovelknight.phase_locket.activate": {
+	"fighters.shovel_knight.phase_locket.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/phase_locket/activate",
+				"name":"ssbrc:fighters/shovel_knight/phase_locket/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.shovelknight.phase_locket.warn": {
+	"fighters.shovel_knight.phase_locket.warn": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/phase_locket/activate",
+				"name":"ssbrc:fighters/shovel_knight/phase_locket/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.shovelknight.propeller_dagger.activate": {
+	"fighters.shovel_knight.propeller_dagger.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/propeller_dagger/activate",
+				"name":"ssbrc:fighters/shovel_knight/propeller_dagger/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.shovelknight.shovel_drop.hit": {
+	"fighters.shovel_knight.shovel_drop.hit": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/shovel_drop/hit",
+				"name":"ssbrc:fighters/shovel_knight/shovel_drop/hit",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.shovelknight.war_horn.activate": {
+	"fighters.shovel_knight.war_horn.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/war_horn/activate",
+				"name":"ssbrc:fighters/shovel_knight/war_horn/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.shovelknight.insufficient_mana": {
+	"fighters.shovel_knight.insufficient_mana": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovelknight/insufficient_mana",
+				"name":"ssbrc:fighters/shovel_knight/insufficient_mana",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1685,37 +1685,37 @@
 			}
 		]
 	},
-	"fighters.teamrocket.arbok.acid.activate": {
+	"fighters.team_rocket.arbok.acid.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/teamrocket/arbok/acid/activate",
+				"name":"ssbrc:fighters/team_rocket/arbok/acid/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.teamrocket.meowth.payday.activate": {
+	"fighters.team_rocket.meowth.payday.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/teamrocket/meowth/payday/activate",
+				"name":"ssbrc:fighters/team_rocket/meowth/payday/activate",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.teamrocket.meowth.payday.explode": {
+	"fighters.team_rocket.meowth.payday.explode": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/teamrocket/meowth/payday/explode",
+				"name":"ssbrc:fighters/team_rocket/meowth/payday/explode",
 				"stream":false,
 				"volume": 1.0
 			}
 		]
 	},
-	"fighters.teamrocket.wobbuffet.destiny_bond.kill": {
+	"fighters.team_rocket.wobbuffet.destiny_bond.kill": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/teamrocket/wobbuffet/destiny_bond/kill",
+				"name":"ssbrc:fighters/team_rocket/wobbuffet/destiny_bond/kill",
 				"stream":false,
 				"volume": 1.0
 			}

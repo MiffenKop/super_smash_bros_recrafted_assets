@@ -36,7 +36,7 @@
 		{ "predicate": { "custom_model_data": 805 }, "model": "ssbrc:maps/h/hyrule_castle/tornado/3" },
 		{ "predicate": { "custom_model_data": 850 }, "model": "ssbrc:map_icons/icicle_mountain" },
 		{ "predicate": { "custom_model_data": 900 }, "model": "ssbrc:map_icons/jungle_japes" },
-		{ "predicate": { "custom_model_data": 901 }, "model": "ssbrc:maps/j/jungle_japes/donkeykong" },
+		{ "predicate": { "custom_model_data": 901 }, "model": "ssbrc:maps/j/jungle_japes/donkey_kong" },
 		{ "predicate": { "custom_model_data": 950 }, "model": "ssbrc:map_icons/lake_of_rage" },
 		{ "predicate": { "custom_model_data": 951 }, "model": "ssbrc:maps/l/lake_of_rage/buoy" },
 		{ "predicate": { "custom_model_data": 1000 }, "model": "ssbrc:map_icons/luigis_mansion" },
