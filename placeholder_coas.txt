@@ -84,7 +84,7 @@
 		{ "predicate": { "custom_model_data": 840 }, "model": "fighters/mario/skins/default" },
 		{ "predicate": { "custom_model_data": 841 }, "model": "fighters/mario/items/fireball" },
 		{ "predicate": { "custom_model_data": 860 }, "model": "fighters/marth/skins/default" },
-		{ "predicate": { "custom_model_data": 880 }, "model": "fighters/megaman/skins/default" },
+		{ "predicate": { "custom_model_data": 880 }, "model": "fighters/mega_man/skins/default" },
 		{ "predicate": { "custom_model_data": 980 }, "model": "fighters/metaknight/skins/default" },
 		{ "predicate": { "custom_model_data": 1000 }, "model": "fighters/mewtwo/skins/default" },
 		{ "predicate": { "custom_model_data": 1020 }, "model": "fighters/minmin/skins/default" },

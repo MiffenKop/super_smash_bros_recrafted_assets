@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "ssbrc:fighters/megaman/items/mega_buster/default"
+		"0": "ssbrc:fighters/mega_man/items/mega_buster/default"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ssbrc:fighters/megaman/items/black_hole_bomb"
+		"layer0": "ssbrc:fighters/mega_man/items/black_hole_bomb"
 	},
 	"display": {
 		"thirdperson_righthand": {

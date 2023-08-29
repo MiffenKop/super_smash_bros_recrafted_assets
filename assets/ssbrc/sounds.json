@@ -1065,7 +1065,7 @@
 	"fighters.megaman.black_hole_bomb.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/megaman/black_hole_bomb/activate",
+				"name":"ssbrc:fighters/mega_man/black_hole_bomb/activate",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1074,7 +1074,7 @@
 	"fighters.megaman.mega_buster.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/megaman/mega_buster/activate",
+				"name":"ssbrc:fighters/mega_man/mega_buster/activate",
 				"stream":false,
 				"volume": 1.0
 			}
