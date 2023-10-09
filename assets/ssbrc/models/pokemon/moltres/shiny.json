@@ -1,0 +1,6 @@
+{
+	"parent": "pokemon/moltres/parent",
+	"texture": {
+		"base": "ssbrc:pokemon/moltres/shiny"
+	}
+}
