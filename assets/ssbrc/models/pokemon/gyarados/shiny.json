@@ -1044,15 +1044,5 @@
 				"down": {"uv": [6, 7, 8, 5], "texture": "#0"}
 			}
 		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [-90, 0, -180],
-			"translation": [-6, 0, 0],
-			"scale": [4, 4, 4]
-		},
-		"head": {
-			"scale": [4, 4, 4]
-		}
-	}
+	]
 }
