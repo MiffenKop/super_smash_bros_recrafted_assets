@@ -694,12 +694,6 @@
 			}
 		}
 	],
-	"display": {
-		"head": {
-			"translation": [0, -26, 0],
-			"scale": [4, 4, 4]
-		}
-	},
 	"groups": [
 		0,
 		1,
