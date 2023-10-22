@@ -1147,7 +1147,7 @@
 	"ssbrc.tooltips.shovel_knight.throwingAnchor.description.1": "] to throw an anchor in an overhead arc",
 	"ssbrc.tooltips.shovel_knight.warHorn": "War Horn",
 	"ssbrc.tooltips.shovel_knight.warHorn.description.1": "] to deal heavy damage to all opponents around you",
-	"ssbrc.tooltips.shovel_knight.warHorn.description.2": "- This item's energy has been used up",
+	"ssbrc.tooltips.shovel_knight.relic_disabled": "- This item's energy has been used up",
 	"ssbrc.stages.towerOfFate": "Tower of Fate",
 	"ssbrc.music.hittingCloseToHome": "Hitting Close to Home",
 	"ssbrc.music.theFatefulReturn": "The Fateful Return",
