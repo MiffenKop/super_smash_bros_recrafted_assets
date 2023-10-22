@@ -463,12 +463,13 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -1.5, -0.26],
-			"scale": [4, 4, 3]
+			"rotation": [0, 0, -90],
+			"translation": [0.5, -2, -0.26],
+			"scale": [4, 4, 4]
 		},
 		"thirdperson_lefthand": {
 			"translation": [0, -1.5, -0.26],
-			"scale": [4, 4, 3]
+			"scale": [4, 4, 4]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -10, 0],
@@ -490,23 +491,27 @@
 			"name": "power_beam",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [
 				{
 					"name": "group",
 					"origin": [0, 0, 0],
 					"color": 0,
+					"nbt": "{}",
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
 				},
 				{
 					"name": "Plasma",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [29, 30, 31, 32]
 				},
 				{
 					"name": "Stripe",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [33, 34]
 				}
 			]

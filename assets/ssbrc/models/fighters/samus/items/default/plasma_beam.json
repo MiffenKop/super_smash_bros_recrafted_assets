@@ -529,11 +529,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, -1.5, -0.93],
-			"scale": [4, 4, 3]
+			"scale": [4, 4, 4]
 		},
 		"thirdperson_lefthand": {
 			"translation": [0, -1.5, -0.93],
-			"scale": [4, 4, 3]
+			"scale": [4, 4, 4]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -10, 0],
@@ -555,23 +555,27 @@
 			"name": "plasma_beam",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [
 				{
 					"name": "body",
 					"origin": [0, 0, 0],
 					"color": 0,
+					"nbt": "{}",
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
 				},
 				{
 					"name": "energy",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [32, 33, 34, 35, 36, 37]
 				},
 				{
 					"name": "stripe",
 					"origin": [8, 8, 8],
 					"color": 0,
+					"nbt": "{}",
 					"children": [38, 39]
 				}
 			]

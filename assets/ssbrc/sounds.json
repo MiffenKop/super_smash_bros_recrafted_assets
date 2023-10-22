@@ -1444,7 +1444,7 @@
 	"fighters.shovel_knight.phase_locket.warn": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovel_knight/phase_locket/activate",
+				"name":"ssbrc:fighters/shovel_knight/phase_locket/warn",
 				"stream":false,
 				"volume": 1.0
 			}
