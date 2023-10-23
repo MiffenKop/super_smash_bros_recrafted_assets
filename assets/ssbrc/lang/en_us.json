@@ -283,7 +283,7 @@
 
 	"ssbrc.options.blind_pick": "Blind Pick",
 	"ssbrc.options.blind_pick.title": "Blind Pick: ",
-	"ssbrc.options.blind_pick.description": "When enabled, players will not be able to see the fighter they got when picking random.",
+	"ssbrc.options.blind_pick.description": "When enabled, players will not be able to see the fighter recieved when selecting random.",
 
 	"ssbrc.options.hazards": "Hazards",
 	"ssbrc.options.hazards.title": "Hazards: ",
