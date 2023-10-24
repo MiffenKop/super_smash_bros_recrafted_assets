@@ -74,8 +74,5 @@
 			"nbt": "{}",
 			"children": [0, 1]
 		}
-	],
-	"texture": {
-		"glove": "ssbrc:fighters/king_k_rool/items/boxing_gloves/right"
-	}
+	]
 }
