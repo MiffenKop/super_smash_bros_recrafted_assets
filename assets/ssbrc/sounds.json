@@ -1444,7 +1444,7 @@
 	"fighters.shovel_knight.phase_locket.warn": {
 		"sounds":[
 			{
-				"name":"ssbrc:fighters/shovel_knight/phase_locket/activate",
+				"name":"ssbrc:fighters/shovel_knight/phase_locket/warn",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1904,7 +1904,7 @@
 	"stages.bowsers_castle.banzai_bill.activate": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/b/bowsers_castle/banzai_bill/activate",
+				"name":"ssbrc:stages/bowsers_castle/banzai_bill/activate",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1913,7 +1913,7 @@
 	"stages.green_hill_zone.checkpoint": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/g/green_hill_zone/checkpoint",
+				"name":"ssbrc:stages/green_hill_zone/checkpoint",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1922,7 +1922,7 @@
 	"stages.green_hill_zone.spring": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/g/green_hill_zone/spring",
+				"name":"ssbrc:stages/green_hill_zone/spring",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1931,12 +1931,12 @@
 	"blackout": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/l/luigis_mansion/blackout/1",
+				"name":"ssbrc:stages/luigis_mansion/blackout/1",
 				"stream":false,
 				"volume": 1.0
 			},
 			{
-				"name":"ssbrc:maps/l/luigis_mansion/blackout/2",
+				"name":"ssbrc:stages/luigis_mansion/blackout/2",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1945,7 +1945,7 @@
 	"stages.pac_maze.pac_maze.eat_fruit": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/pac_maze/eat_fruit",
+				"name":"ssbrc:stages/pac_maze/pac_maze/eat_fruit",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1954,7 +1954,7 @@
 	"stages.pac_maze.pac_maze.eat_ghost": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/pac_maze/eat_ghost",
+				"name":"ssbrc:stages/pac_maze/pac_maze/eat_ghost",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1963,12 +1963,12 @@
 	"stages.pac_maze.pac_maze.munch": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/pac_maze/munch_1",
+				"name":"ssbrc:stages/pac_maze/pac_maze/munch_1",
 				"stream":false,
 				"volume": 1.0
 			},
 			{
-				"name":"ssbrc:maps/p/pac_maze/pac_maze/munch_2",
+				"name":"ssbrc:stages/pac_maze/pac_maze/munch_2",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1977,7 +1977,7 @@
 	"stages.pac_maze.pac_maze.power_pellet": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/pac_maze/power_pellet",
+				"name":"ssbrc:stages/pac_maze/pac_maze/power_pellet",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1986,7 +1986,7 @@
 	"stages.pac_maze.mrs_pac_maze.eat_fruit": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/eat_fruit",
+				"name":"ssbrc:stages/pac_maze/mrs_pac_maze/eat_fruit",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -1995,7 +1995,7 @@
 	"stages.pac_maze.mrs_pac_maze.eat_ghost": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/eat_ghost",
+				"name":"ssbrc:stages/pac_maze/mrs_pac_maze/eat_ghost",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -2004,12 +2004,12 @@
 	"stages.pac_maze.mrs_pac_maze.munch": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/munch_1",
+				"name":"ssbrc:stages/pac_maze/mrs_pac_maze/munch_1",
 				"stream":false,
 				"volume": 1.0
 			},
 			{
-				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/munch_2",
+				"name":"ssbrc:stages/pac_maze/mrs_pac_maze/munch_2",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -2018,7 +2018,7 @@
 	"stages.pac_maze.mrs_pac_maze.power_pellet": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/mrs_pac_maze/power_pellet",
+				"name":"ssbrc:stages/pac_maze/mrs_pac_maze/power_pellet",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -2027,7 +2027,7 @@
 	"stages.pac_maze.extend": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/extend",
+				"name":"ssbrc:stages/pac_maze/extend",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -2036,7 +2036,7 @@
 	"stages.pac_maze.retreating": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/retreating",
+				"name":"ssbrc:stages/pac_maze/retreating",
 				"stream":false,
 				"volume": 1.0
 			}
@@ -2045,7 +2045,7 @@
 	"stages.pac_maze.siren": {
 		"sounds":[
 			{
-				"name":"ssbrc:maps/p/pac_maze/siren",
+				"name":"ssbrc:stages/pac_maze/siren",
 				"stream":false,
 				"volume": 1.0
 			}

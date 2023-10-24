@@ -4,7 +4,7 @@
 		"layer0": "minecraft:block/iron_bars"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:maps/t/tower_of_fate/spike" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:maps/p/palutenas_temple/spike" }
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:stages/tower_of_fate/spike" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "ssbrc:stages/palutenas_temple/spike" }
 	]
 }

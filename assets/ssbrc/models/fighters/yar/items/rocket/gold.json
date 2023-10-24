@@ -343,13 +343,6 @@
 			}
 		}
 	],
-	"display": {
-		"head": {
-			"rotation": [-180, 0, -180],
-			"translation": [0, -34, 0],
-			"scale": [1.5, 1.5, 1.5]
-		}
-	},
 	"groups": [
 		0,
 		1,

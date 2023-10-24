@@ -4,6 +4,6 @@
 		"layer0": "block/vine"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:maps/g/great_plateau/wooden_vine" }
+		{ "predicate": { "custom_model_data": 1 }, "model": "ssbrc:stages/great_plateau/wooden_vine" }
 	]
 }

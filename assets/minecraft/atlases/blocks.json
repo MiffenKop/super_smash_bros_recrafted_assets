@@ -32,13 +32,13 @@
 		},
 		{
 			"type": "directory",
-			"source": "map_icons",
-			"prefix": "map_icons/"
+			"source": "stage_icons",
+			"prefix": "stage_icons/"
 		},
 		{
 			"type": "directory",
-			"source": "maps",
-			"prefix": "maps/"
+			"source": "stages",
+			"prefix": "stages/"
 		},
 		{
 			"type": "directory",
