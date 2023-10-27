@@ -1,5 +1,5 @@
 {
-	"parent": "template/alex",
+	"parent": "ssbrc:template/alex",
 	"textures": {
 		"base": "ssbrc:developers/ricardo64"
 	}

@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/magnemite/parent",
+	"parent": "ssbrc:pokemon/magnemite/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/magnemite/shiny"
 	}

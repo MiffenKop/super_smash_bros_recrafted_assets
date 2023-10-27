@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/snorlax/parent",
+	"parent": "ssbrc:pokemon/snorlax/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/snorlax/shiny"
 	}

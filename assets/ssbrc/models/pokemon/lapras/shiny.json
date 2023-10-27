@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/lapras/parent",
+	"parent": "ssbrc:pokemon/lapras/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/lapras/shiny"
 	}

@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/diglett/parent",
+	"parent": "ssbrc:pokemon/diglett/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/diglett/default"
 	}

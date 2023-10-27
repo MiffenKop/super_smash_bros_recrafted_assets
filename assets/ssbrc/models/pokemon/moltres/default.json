@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/moltres/parent",
+	"parent": "ssbrc:pokemon/moltres/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/moltres/default"
 	}

@@ -1,5 +1,5 @@
 {
-	"parent": "template/steve",
+	"parent": "ssbrc:template/steve",
 	"textures": {
 		"base": "ssbrc:developers/inquognito"
 	}

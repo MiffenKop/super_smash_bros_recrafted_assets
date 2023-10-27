@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/gyarados/parent",
+	"parent": "ssbrc:pokemon/gyarados/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/gyarados/default"
 	}

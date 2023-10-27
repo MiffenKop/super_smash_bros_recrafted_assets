@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/geodude/parent",
+	"parent": "ssbrc:pokemon/geodude/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/geodude/default"
 	}

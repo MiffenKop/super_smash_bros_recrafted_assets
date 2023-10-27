@@ -1,5 +1,5 @@
 {
-	"parent": "template/head",
+	"parent": "ssbrc:template/head",
 	"textures": {
 		"base": "ssbrc:fighters/samus/skins/gold"
 	}

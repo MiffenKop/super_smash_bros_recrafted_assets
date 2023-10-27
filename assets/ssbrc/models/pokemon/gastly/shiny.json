@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/gastly/parent",
+	"parent": "ssbrc:pokemon/gastly/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/gastly/shiny"
 	}

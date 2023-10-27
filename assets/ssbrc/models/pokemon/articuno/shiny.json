@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/articuno/parent",
+	"parent": "ssbrc:pokemon/articuno/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/articuno/shiny"
 	}

@@ -1,5 +1,5 @@
 {
-	"parent": "pokemon/porygon/parent",
+	"parent": "ssbrc:pokemon/porygon/parent",
 	"texture": {
 		"base": "ssbrc:pokemon/porygon/shiny"
 	}
