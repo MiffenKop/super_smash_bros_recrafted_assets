@@ -92,8 +92,6 @@
 		{ "predicate": { "custom_model_data": 1084 }, "model": "ssbrc:fighters/ness/skins/phase_distortion" },
 		{ "predicate": { "custom_model_data": 1160 }, "model": "ssbrc:fighters/peach/skins/default" },
 		{ "predicate": { "custom_model_data": 1161 }, "model": "ssbrc:fighters/peach/skins/gold" },
-		{ "predicate": { "custom_model_data": 1162 }, "model": "ssbrc:fighters/peach/skins/flower_power" },
-		{ "predicate": { "custom_model_data": 1163 }, "model": "ssbrc:fighters/peach/skins/shadow_queen" },
 		{ "predicate": { "custom_model_data": 1170 }, "model": "ssbrc:fighters/toad/skins/default" },
 		{ "predicate": { "custom_model_data": 1172 }, "model": "ssbrc:fighters/toad/skins/blue" },
 		{ "predicate": { "custom_model_data": 1173 }, "model": "ssbrc:fighters/toad/skins/yellow" },
