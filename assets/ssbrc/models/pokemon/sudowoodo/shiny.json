@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:pokemon/sudowoodo/parent",
-	"texture": {
+	"textures": {
 		"base": "ssbrc:pokemon/sudowoodo/shiny"
 	}
 }

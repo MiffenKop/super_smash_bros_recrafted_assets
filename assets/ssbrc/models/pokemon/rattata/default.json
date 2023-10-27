@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:pokemon/rattata/parent",
-	"texture": {
+	"textures": {
 		"base": "ssbrc:pokemon/rattata/default"
 	}
 }

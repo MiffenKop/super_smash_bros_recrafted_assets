@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:pokemon/porygon/parent",
-	"texture": {
+	"textures": {
 		"base": "ssbrc:pokemon/porygon/default"
 	}
 }

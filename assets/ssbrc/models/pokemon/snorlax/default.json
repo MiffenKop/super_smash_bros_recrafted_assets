@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:pokemon/snorlax/parent",
-	"texture": {
+	"textures": {
 		"base": "ssbrc:pokemon/snorlax/default"
 	}
 }

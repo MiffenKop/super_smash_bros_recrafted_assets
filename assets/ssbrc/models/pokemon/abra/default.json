@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:pokemon/abra/parent",
-	"texture": {
+	"textures": {
 		"base": "ssbrc:pokemon/abra/default"
 	}
 }

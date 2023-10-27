@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:pokemon/magnemite/parent_body",
-	"texture": {
+	"textures": {
 		"base": "ssbrc:pokemon/magnemite/default"
 	}
 }

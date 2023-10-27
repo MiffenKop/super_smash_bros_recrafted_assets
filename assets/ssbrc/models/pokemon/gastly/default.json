@@ -1,6 +1,6 @@
 {
 	"parent": "ssbrc:pokemon/gastly/parent",
-	"texture": {
+	"textures": {
 		"base": "ssbrc:pokemon/gastly/default"
 	}
 }

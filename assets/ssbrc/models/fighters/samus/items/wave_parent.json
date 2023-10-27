@@ -571,7 +571,7 @@
 			]
 		}
 	],
-	"texture": {
+	"textures": {
 		"glove": "ssbrc:fighters/king_k_rool/items/boxing_gloves/right"
 	}
 }
