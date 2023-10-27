@@ -5,8 +5,6 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 100 }, "model": "ssbrc:fighters/byleth/items/sword_of_the_creator" },
-		{ "predicate": { "custom_model_data": 400 }, "model": "ssbrc:fighters/ganondorf/items/sword/default" },
-		{ "predicate": { "custom_model_data": 401 }, "model": "ssbrc:fighters/ganondorf/items/sword/gold" },
 		{ "predicate": { "custom_model_data": 440 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_light/default" },
 		{ "predicate": { "custom_model_data": 441 }, "model": "ssbrc:fighters/hero/items/sword/sword_of_ramias/default" },
 		{ "predicate": { "custom_model_data": 442 }, "model": "ssbrc:fighters/hero/items/sword/zenithian_sword/default" },

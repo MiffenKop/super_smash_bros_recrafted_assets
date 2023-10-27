@@ -260,6 +260,7 @@
 		{ "predicate": { "custom_model_data": 1928 }, "model": "ssbrc:fighters/shovel_knight/items/phase_locket/disabled" },
 		{ "predicate": { "custom_model_data": 1929 }, "model": "ssbrc:fighters/shovel_knight/items/propeller_dagger/disabled" },
 		{ "predicate": { "custom_model_data": 1930 }, "model": "ssbrc:fighters/shovel_knight/items/throwing_anchor/disabled" },
+		{ "predicate": { "custom_model_data": 1931 }, "model": "ssbrc:fighters/shovel_knight/items/war_horn/disabled" },
 
 		{ "predicate": { "custom_model_data": 1940 }, "model": "ssbrc:fighters/team_rocket/skins/logo" },
 		{ "predicate": { "custom_model_data": 1944 }, "model": "ssbrc:fighters/team_rocket/items/meowth/payday" },
